@@ -1,0 +1,1959 @@
+<html lang="ko"><head>
+<meta charset="utf-8">
+<meta name="viewport" id="meta_viewport" content="width=device-width,initial-scale=1.0,minimum-scale=0,maximum-scale=10">
+<meta name="HandheldFriendly" content="true">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+<title>한국야동 - AV19</title>
+<meta property="og:title" content="한국야동 - AV19">
+<meta name="twitter:title" content="한국야동 - AV19">
+<meta property="og:site_name" content="한국야동 - AV19">
+<meta name="description" content="한국야동 | 한국야동 전문 AV19는 매일 수천개의 한국야동 업데이트가 됩니다. 한국야동, 일본야동, AV노모, AV유모, 자막야동, 실시간야동, 중국야동, BJ야동, 국산야동, 애니야동, 성인사진을 무료로 무제한 즐겨보십시오">
+<meta name="keywords" content="한국야동, 야동, 한국야동, 무료야동, 일본야동, HD AV, 실시간야동, 무료 AV, JAV, 모바일 야동">
+<meta property="og:description" content="한국야동 | 한국야동 전문 AV19는 매일 수천개의 한국야동 업데이트가 됩니다. 한국야동, 일본야동, AV노모, AV유모, 자막야동, 실시간야동, 중국야동, BJ야동, 국산야동, 애니야동, 성인사진을 무료로 무제한 즐겨보십시오">
+<meta name="twitter:description" content="한국야동 | 한국야동 전문 AV19는 매일 수천개의 한국야동 업데이트가 됩니다. 한국야동, 일본야동, AV노모, AV유모, 자막야동, 실시간야동, 중국야동, BJ야동, 국산야동, 애니야동, 성인사진을 무료로 무제한 즐겨보십시오">
+<meta name="keywords" content="한국야동, 야동, 한국야동, 무료야동, 일본야동, HD AV, 실시간야동, 자막야동, 무료, JAV, 모바일 야동">
+<meta name="author" content="AV19.ORG">
+<meta property="og:url" content="https://av19.org">
+<meta property="og:type" content="website">
+<meta name="twitter:image:alt" content="AV19.Org |  야동 실시간 감상">
+
+
+
+<style>
+.bo_sch_wrap { display:none; }
+</style>
+
+<link rel="stylesheet" href="https://av19.org/css/default.css?ver=210618">
+<!--[if lte IE 8]>
+<script src="https://av19.org/js/html5.js"></script>
+<![endif]-->
+
+<script>
+// 자바스크립트에서 사용하는 전역변수 선언
+var g5_url       = "https://av19.org";
+var g5_bbs_url   = "https://av19.org/bbs";
+var g5_is_member = "";
+var g5_is_admin  = "";
+var g5_is_mobile = "";
+var g5_bo_table  = "korea";
+var g5_sca       = "";
+var g5_editor    = "";
+var g5_cookie_domain = "";
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="https://av19.org/favicon.ico">
+<link rel="preload" href="https://av19.org/fonts/inter-v3-latin-500.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://av19.org/fonts/halant-v8-latin-500.woff2" as="font" type="font/woff2" crossorigin="">
+
+<style>
+	@font-face {
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 500;
+		src: url('/fonts/inter-v3-latin-500.eot');
+		src: local(''),
+		url('https://av19.org/fonts/inter-v3-latin-500.eot?#iefix') format('embedded-opentype'),
+		url('https://av19.org/fonts/inter-v3-latin-500.woff2') format('woff2'),
+		url('https://av19.org/fonts/inter-v3-latin-500.woff') format('woff'),
+		url('https://av19.org/fonts/inter-v3-latin-500.ttf') format('truetype'),
+		url('https://av19.org/fonts/inter-v3-latin-500.svg#Inter') format('svg');
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: 'Halant';
+		font-style: normal;
+		font-weight: 500;
+		src: url('/fonts/halant-v8-latin-500.eot');
+		src: local(''),
+		url('https://av19.org/fonts/halant-v8-latin-500.eot?#iefix') format('embedded-opentype'),
+		url('https://av19.org/fonts/halant-v8-latin-500.woff2') format('woff2'),
+		url('https://av19.org/fonts/halant-v8-latin-500.woff') format('woff'),
+		url('https://av19.org/fonts/halant-v8-latin-500.ttf') format('truetype'),
+		url('https://av19.org/fonts/halant-v8-latin-500.svg#Halant') format('svg');
+		font-display: swap;
+	}
+
+	.empty_list { list-style:none; width:100%; text-align:center; font-size:30px; color:#fff; margin:0 auto; float:normal; } 
+</style>
+
+	<link rel="stylesheet" href="/css/missav.css">
+	<script type="module" src="/js/loads.js"></script>
+
+	<link rel="stylesheet" href="/css/default.css">
+	<link rel="stylesheet" href="/skin/board/gallery_par/style.css">
+	<link rel="stylesheet" href="/assets/style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/assets/font-awesome.min.css">
+	<link rel="stylesheet" href="/assets/font.css">
+
+
+
+<style>
+.pagination {
+	clear:both;
+	display:table;
+	margin:0 auto
+}
+.pagination ul {
+	list-style:none;
+	overflow:hidden;
+	padding:2em 0 0
+}
+.pagination ul li {
+	float:left;
+	margin:0 .25em;
+	display:block
+}
+.pagination ul li a {
+	display:block;
+	padding:.5em 1em;
+	margin-bottom:.5em;
+	border-width:1px;
+	border-style:solid;
+	border-color:#eee;
+	outline:0
+}
+.pagination ul li a.current,.pagination ul li a:hover {
+	color:#646c79;
+	border-color:#646c79
+}
+
+.bg-opacity-75 {
+    --tw-bg-opacity: .75;
+}
+
+</style>
+
+<script src="https://av19.org/js/jquery-1.12.4.min.js?ver=210618"></script>
+<script src="https://av19.org/js/jquery-migrate-1.4.1.min.js?ver=210618"></script>
+<script src="https://av19.org/js/jquery.menu.js?ver=210618"></script>
+<script src="https://av19.org/js/common.js?ver=210618"></script>
+<script src="https://av19.org/js/wrest.js?ver=210618"></script>
+<script src="https://av19.org/js/placeholders.min.js?ver=210618"></script>
+<style>.root--\+9vNo{height:100%;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;overflow:hidden}.root--\+9vNo video{opacity:1;min-width:100%;min-height:100%;position:absolute;left:50%;top:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%);font-size:0;display:block}.root--\+9vNo video[metaloaded]{-webkit-animation:videoFadeIn--R67vo .3s ease-in forwards;animation:videoFadeIn--R67vo .3s ease-in forwards}.inner--w8Qlv{min-width:100%;min-height:100%;border-radius:18px;overflow:hidden}.circle--tsF0N{border-radius:100%;position:relative}@-webkit-keyframes videoFadeIn--R67vo{from{opacity:0}to{opacity:1}}@keyframes videoFadeIn--R67vo{from{opacity:0}to{opacity:1}}</style><style>.root--JrRdn{color:inherit;position:relative;display:block;height:100%;width:100%;overflow:hidden;background-position:center;background-size:cover;-webkit-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0);font-family:"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif}.img--YWbK3{-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);height:100%;width:100%}.background--CX6MD{position:absolute;left:0;right:0;top:0;bottom:0;background-position:center;background-size:cover;-webkit-filter:blur(8px);filter:blur(8px)}.with-shadow--z1XLV::after{background:-webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(transparent), color-stop(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.9)));background:linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9));bottom:0;content:" ";display:block;left:0;pointer-events:none;position:absolute;right:0;top:0}.header--COb0Z{position:absolute;top:6px;left:0;right:0}.footer--AApH4{position:absolute;bottom:0;left:0;right:0}.footer--AApH4>*{bottom:0}.play-button--GJikc{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%)}</style><style>.icon{height:17px;width:17px}</style><style>.root--tVeSu{background-color:rgba(0,0,0,.32);border-radius:2px;color:#fff;font-size:10px;padding:1px 5px;display:inline-block;position:relative;z-index:2}.root--tVeSu+.root--tVeSu{margin-left:3px}.big--nv2ND{font-weight:600;padding:5px 12px;font-size:15px;border-radius:3px}</style><style>.root--3KIsO{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.root--3KIsO small{font-size:smaller}.online--\+zD2p{display:block;width:5px;height:5px;background-color:#fff;border-radius:50%;margin-right:5px}.big--e2RNt{width:13px;height:13px}.root_universal--o-\+e0{font-size:12px;line-height:12px}</style><style>.root--LhO1W{display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.left--Vf4-s{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;min-width:0}.left--Vf4-s:only-child{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.right--gI-QO{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-left:auto}</style><style>.root--aFfDV{position:absolute;left:5px;right:5px;z-index:1}.big--3hd8C{left:25px;right:25px;top:25px}</style><style>.root--8jrgo{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:12px;padding:0 8px;position:absolute;width:100%;z-index:1}.big--E4iSN{padding:0 25px 10px}.model-name--rPs-X{max-width:calc(100% - 17px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin-right:5px}.model-name-responsive--oEXtj{font-size:calc(12px + 2vh);margin-right:calc(5px + .3vh)}.root--8jrgo .icon-responsive--NFVpB{height:100%;width:auto}@media screen and (max-height: 89px){.hide-on-small-spots--953LV{display:none}}</style><style>.root--VkRIi{opacity:0;display:-webkit-box;display:-ms-flexbox;display:flex;width:100%;height:100%;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;font-family:"Helvetica",Arial,sans-serif;text-align:center;position:absolute;top:0;text-shadow:0 0 9px #000;-webkit-animation:fade-in--GiAtF .5s .8s forwards;animation:fade-in--GiAtF .5s .8s forwards}.head--GQ8uD{font-size:1.8em;margin-bottom:1.8em}@-webkit-keyframes fade-in--GiAtF{from{opacity:0}to{opacity:1}}@keyframes fade-in--GiAtF{from{opacity:0}to{opacity:1}}</style><style>.root--ujvuu{position:fixed;bottom:10px;right:10px;border:1px solid #555;z-index:2000000}.close-button--wsOv0{background:rgba(0,0,0,.7);border:1px solid #888;border-radius:0;outline:none;color:#fff;padding:5px 8px;top:0;right:0;position:absolute;cursor:pointer}.cta-button--ddtCz{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:5px 14px;background:-webkit-gradient(linear, left bottom, left top, from(rgba(162, 36, 44, 0.2)), to(rgba(162, 36, 44, 0.2))),red;background:linear-gradient(0deg, rgba(162, 36, 44, 0.2), rgba(162, 36, 44, 0.2)),red;-webkit-box-shadow:0 0 60px rgba(0,0,0,.08);box-shadow:0 0 60px rgba(0,0,0,.08);border-radius:16px;position:absolute;bottom:6px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%);color:#fff;text-transform:uppercase;text-decoration:none;font-size:14px;font-family:Source Sans Pro,sans-serif;line-height:1.3}</style><script charset="utf-8" src="https://creative.xlviirdr.com/widgets/Spot/vendors~hls.bcc031732d2abdb3a795.js"></script><script charset="utf-8" src="https://creative.xlviirdr.com/widgets/Spot/hls.4cfa5b780bfed20a8b26.js"></script></head>
+
+
+
+<body><div class="root--ujvuu" style="width: 330px; height: 185px;"><div style="height: 100%; color: white; overflow: hidden; position: relative; font-size: 16px;"><svg style="display: none;"><defs><symbol id="icon-female"><path d="m27,24.1c14.3,0 26,11.6 26,25.9c0,13.2 -9.8,24 -22.5,25.7l0,5.7l5.5,0l0,5.5l-5.5,0l0,5.5l-6.8,0l0,-5.5l-5.5,0l0,-5.5l5.5,0l0,-5.7c-12.8,-1.7 -22.6,-12.5 -22.6,-25.7c0,-14.3 11.6,-25.9 25.9,-25.9zm0,6.8c-10.6,0 -19.1,8.5 -19.1,19.1s8.5,19.1 19.1,19.1c10.6,0 19.1,-8.5 19.1,-19.1s-8.5,-19.1 -19.1,-19.1z" fill="#D63F9B"></path></symbol><symbol id="icon-females"><g fill="#D63F9B"><path d="M33.4 24.1c5.1 0 9.8 1.5 13.8 4 3.9 2.5 7.1 5.9 9.2 10 1.9 3.6 2.9 7.6 2.9 11.9 0 4.3-1 8.3-2.9 11.9-2.1-1.8-3.7-4.1-4.6-6.8.5-1.6.7-3.3.7-5.1 0-1.8-.2-3.5-.7-5.1-1.4-5-4.8-9.2-9.2-11.6-2.7-1.5-5.8-2.3-9.2-2.3-10.5 0-19.1 8.6-19.1 19.1s8.6 19.1 19.1 19.1c3.3 0 6.5-.9 9.2-2.3 1.3 1.9 2.9 3.7 4.6 5.2-3.1 1.9-6.6 3.3-10.4 3.8v5.7h5.5v5.5h-5.5v5.5H30v-5.5h-5.5v-5.5H30v-5.7C17.3 74.1 7.5 63.2 7.5 50c0-14.3 11.6-25.9 25.9-25.9z"></path><path d="M66.6 24.1c14.3 0 25.9 11.6 25.9 25.9 0 13.2-9.8 24-22.5 25.7v5.7h5.5v5.5H70v5.5h-6.8v-5.5h-5.5v-5.5h5.5v-5.7c-3.8-.5-7.3-1.8-10.4-3.8-3.9-2.5-7.1-5.9-9.2-10.1-1.8-3.6-2.9-7.6-2.9-11.9 0-4.3 1-8.3 2.9-11.9 2.1 1.8 3.7 4.2 4.6 6.9-.4 1.6-.7 3.3-.7 5 0 1.7.2 3.4.7 5 1.4 5.1 4.7 9.3 9.2 11.8 2.7 1.5 5.9 2.4 9.2 2.4 10.5 0 19.1-8.6 19.1-19.1s-8.6-19.1-19.1-19.1c-3.3 0-6.5.9-9.2 2.4-1.3-1.9-2.9-3.7-4.6-5.2 4-2.6 8.7-4 13.8-4z"></path></g></symbol><symbol id="icon-femaleTranny"><g><path d="M30.1 24.1c5.1 0 9.8 1.5 13.8 4 3.9 2.5 7.1 5.9 9.2 10C55 41.7 56 45.7 56 50c0 4.3-1 8.3-2.9 11.9-2.1-1.8-3.7-4.1-4.6-6.8.5-1.6.7-3.3.7-5.1 0-1.8-.2-3.5-.7-5.1-1.4-5-4.8-9.2-9.2-11.6-2.7-1.5-5.8-2.3-9.2-2.3C19.6 31 11 39.5 11 50.1s8.5 19.1 19.1 19.1c3.3 0 6.4-.8 9.2-2.3 1.3 1.9 2.9 3.7 4.6 5.2-3.1 1.9-6.6 3.3-10.4 3.8v5.7H39v5.5h-5.5v5.5h-6.8v-5.5h-5.5v-5.5h5.5v-5.7C14 74 4.2 63.2 4.2 50c0-14.3 11.6-25.9 25.9-25.9z" fill="#D63F9B"></path><path d="M49.5 71.9c-3.9-2.5-7.1-5.9-9.2-10.1-1.8-3.6-2.9-7.6-2.9-11.9 0-4.3 1-8.3 2.9-11.9 2.1 1.8 3.7 4.2 4.6 6.9-.4 1.6-.7 3.3-.7 5 0 1.7.2 3.4.7 5 1.4 5.1 4.7 9.3 9.2 11.8 2.7 1.5 5.9 2.4 9.2 2.4 10.5 0 19.1-8.5 19.1-19.1s-8.5-19.1-19.1-19.1c-3.3 0-6.5.9-9.2 2.4-1.3-1.9-2.9-3.7-4.6-5.2 4-2.5 8.8-4 13.8-4 6 0 11.4 2 15.8 5.4l5.1-5.1-4.7-4.7 16.2-1.9L93.8 34l-4.7-4.7-5.1 5c3.3 4.4 5.3 9.8 5.3 15.7 0 13.2-9.8 24-22.5 25.7v5.7h5.5v5.5h-5.5v5.5H60v-5.5h-5.5v-5.5H60v-5.7c-3.9-.5-7.4-1.8-10.5-3.8zM31.3 20.7c4.2.2 8.1 1.3 11.7 3l4.1-4.1L31 17.7l.3 3z" fill="#A862FF"></path></g></symbol><symbol id="icon-male"><path d="M82.4 17.7l-1.9 16.2-4.7-4.7-5.2 5.2c3.3 4.4 5.3 9.8 5.3 15.7C75.9 64.4 64.3 76 50 76c-14.3 0-25.9-11.6-25.9-25.9s11.6-26 25.9-26c6 0 11.4 2 15.8 5.4l5.1-5.2-4.7-4.7 16.2-1.9zM50 30.9c-10.5 0-19.1 8.6-19.1 19.1S39.5 69.1 50 69.1c10.5 0 19.1-8.6 19.1-19.1S60.6 30.9 50 30.9z" fill="#61ACEC"></path></symbol><symbol id="icon-maleFemale"><g><path d="M95.8 17.7l-1.9 16.2-4.7-4.7-5.2 5.1c3.3 4.4 5.3 9.8 5.3 15.7 0 14.3-11.6 25.9-25.9 25.9-5.1 0-9.8-1.5-13.9-4-3.9-2.5-7.1-5.9-9.2-10.1-1.8-3.6-2.9-7.6-2.9-11.9 0-4.3 1-8.3 2.9-11.9 2.1 1.8 3.7 4.2 4.6 6.9-.4 1.6-.7 3.3-.7 5 0 1.7.2 3.4.7 5 1.4 5.1 4.7 9.3 9.2 11.8 2.7 1.5 5.9 2.4 9.2 2.4 10.5 0 19.1-8.5 19.1-19.1 0-10.1-7.9-18.4-17.9-19.1h-1.2c-3.3 0-6.5.9-9.2 2.4-1.3-1.9-2.9-3.7-4.6-5.2 4-2.5 8.8-4 13.8-4 5.7 0 11.3 1.9 15.8 5.4l5.1-5.1-4.7-4.7 16.3-2z" fill="#61ACEC"></path><path d="M30.1 24.1c5.1 0 9.8 1.5 13.8 4 3.9 2.5 7.1 5.9 9.2 10C55 41.7 56 45.7 56 50c0 4.3-1 8.3-2.9 11.9-2.1-1.8-3.7-4.1-4.6-6.8.5-1.6.7-3.3.7-5.1 0-1.8-.2-3.5-.7-5.1-1.4-5-4.8-9.2-9.2-11.6-2.7-1.5-5.8-2.3-9.2-2.3C19.6 31 11 39.5 11 50.1s8.5 19.1 19.1 19.1c3.3 0 6.4-.8 9.2-2.3 1.3 1.9 2.9 3.7 4.6 5.2-3.1 1.9-6.6 3.3-10.4 3.8v5.7H39v5.5h-5.5v5.5h-6.8v-5.5h-5.5v-5.5h5.5v-5.7C14 74 4.2 63.2 4.2 50c0-14.3 11.6-25.9 25.9-25.9z" fill="#D63F9B"></path></g></symbol><symbol id="icon-males"><g fill="#61ACEC"><path d="M62.6 17.7l-1.9 16.2-4.7-4.8-5.2 5.2c3.3 4.4 5.3 9.8 5.3 15.7 0 4.3-1 8.4-2.9 11.9-2.1-1.8-3.7-4.1-4.6-6.8 0 0 .7-3.4.7-5.2 0-10.6-8.6-19.1-19.1-19.1-10.6.1-19.2 8.7-19.2 19.3s8.6 19.1 19.1 19.1c3.3 0 6.4-.8 9.2-2.3 1.3 1.9 2.9 3.7 4.6 5.2h-.2C39.7 74.6 35 76 30 76 15.7 76 4 64.4 4 50s11.6-26 26-26c6 0 11.5 2 15.8 5.4l5.2-5.2-4.7-4.7 16.3-1.8z"></path><path d="M95.8 17.7l-1.9 16.2-4.7-4.7-5.2 5.1c3.3 4.4 5.3 9.8 5.3 15.7 0 14.3-11.6 26-26 26-5.1 0-9.9-1.5-13.9-4-3.9-2.5-7.1-6-9.2-10.1-1.8-3.6-2.9-7.6-2.9-11.9 0-4.3 1-8.3 2.9-11.9 2.1 1.8 3.7 4.2 4.6 6.9-.4 1.6-.7 3.3-.7 5 0 1.7.2 3.4.7 5 1.4 5.1 4.7 9.3 9.2 11.8 2.7 1.5 5.9 2.4 9.2 2.4 10.6 0 19.1-8.6 19.1-19.1 0-10.2-7.9-18.5-17.9-19.1l.8-6.8c5.2.4 9.9 2.3 13.8 5.3l5.2-5.2-4.7-4.7 16.3-1.9z"></path></g></symbol><symbol id="icon-maleTranny"><g><path d="M49.5 71.9c-3.9-2.5-7.1-5.9-9.2-10.1-1.8-3.6-2.9-7.6-2.9-11.9 0-4.3 1-8.3 2.9-11.9 2.1 1.8 3.7 4.2 4.6 6.9-.4 1.6-.7 3.3-.7 5 0 1.7.2 3.4.7 5 1.4 5.1 4.7 9.3 9.2 11.8 2.7 1.5 5.9 2.4 9.2 2.4 10.5 0 19.1-8.5 19.1-19.1 0-10.1-7.9-18.4-17.9-19.1l.8-6.8c5.2.4 9.9 2.3 13.8 5.3l5.1-5.1-4.7-4.7 16.2-1.9-1.9 16.2-4.7-4.7-5.1 5.1c3.3 4.4 5.3 9.8 5.3 15.7 0 13.2-9.8 24-22.5 25.7v5.7h5.5v5.5h-5.5v5.5H60v-5.5h-5.5v-5.5H60v-5.7c-3.9-.5-7.4-1.8-10.5-3.8zM31.3 20.7c4.2.2 8.1 1.3 11.7 3l1.4-1.4-3.4-3.4-10-1.2.3 3z" fill="#A862FF"></path><path d="M62.6 17.7l-1.9 16.2-4.7-4.7-5.2 5.2c3.3 4.4 5.3 9.8 5.3 15.7 0 4.3-1 8.4-2.9 11.9-2.1-1.8-3.7-4.1-4.6-6.8 0 0 .7-3.4.7-5.2 0-10.5-8.5-19.1-19.1-19.1-10.5 0-19.1 8.5-19.1 19.1s8.5 19.1 19.1 19.1c3.3 0 6.4-.8 9.1-2.3 1.3 1.9 2.9 3.7 4.6 5.2h-.2c-4 2.5-8.6 3.9-13.7 3.9C15.8 75.9 4.2 64.3 4.2 50s11.6-25.9 25.9-25.9c6 0 11.4 2 15.8 5.4l5.1-5.1-4.7-4.7 16.3-2z" fill="#61ACEC"></path></g></symbol><symbol id="icon-tranny"><path d="M50 24.1c6 0 11.4 2 15.8 5.4l5.1-5.1-4.7-4.7 16.2-1.9L80.5 34l-4.7-4.7-5.2 5.2c3.3 4.4 5.3 9.8 5.3 15.7 0 13.2-9.8 24-22.5 25.7v5.7h5.5v5.5h-5.5v5.5h-6.8v-5.5h-5.5v-5.5h5.5v-5.7C33.9 74 24.1 63.2 24.1 50c0-5.9 2-11.4 5.3-15.8l-5.1-5.1-4.7 4.7-1.9-16.2 16.2 1.9-4.7 4.7 5.1 5.1c4.3-3.2 9.8-5.2 15.7-5.2zm0 6.8c-10.5 0-19.1 8.5-19.1 19.1S39.5 69.1 50 69.1c10.5 0 19.1-8.5 19.1-19.1S60.6 30.9 50 30.9z" fill="#A862FF"></path></symbol><symbol id="icon-trannies"><g fill="#A862FF"><path d="M33.4 24.1c5.7 0 11.3 1.9 15.8 5.4l5.1-5.1-4.7-4.7 16.2-1.9L63.9 34l-4.7-4.7-5.2 5c3.4 4.5 5.3 10 5.3 15.7 0 4.3-1 8.3-2.9 11.9-2.1-1.8-3.7-4.1-4.6-6.8.4-1.6.7-3.3.7-5.1 0-10.5-8.5-19.1-19.1-19.1-10.5 0-19.1 8.5-19.1 19.1s8.5 19.1 19.1 19.1c3.3 0 6.5-.9 9.2-2.3 1.3 1.9 2.9 3.7 4.6 5.2-3.1 1.9-6.6 3.3-10.4 3.8v5.7h5.5V87h-5.5v5.5H30V87h-5.5v-5.5H30v-5.7C17.2 74 7.4 63.2 7.4 50c0-5.9 2-11.4 5.3-15.8l-5.1-5.1-4.7 4.7L1 17.7l16.2 1.9-4.7 4.7 5.1 5.1c4.4-3.3 9.8-5.3 15.8-5.3z"></path><path d="M52.7 71.9c-3.9-2.5-7.1-5.9-9.2-10.1-1.8-3.6-2.9-7.6-2.9-11.9 0-4.3 1-8.3 2.9-11.9 2.1 1.8 3.7 4.2 4.6 6.9-.4 1.6-.7 3.3-.7 5 0 1.7.2 3.4.7 5 1.4 5.1 4.7 9.3 9.2 11.8 2.7 1.5 5.9 2.4 9.2 2.4 10.5 0 19.1-8.5 19.1-19.1 0-10.1-7.9-18.4-17.9-19.1l.8-6.8c5.2.4 9.9 2.3 13.8 5.3l5.1-5.1-4.7-4.7L99 17.7l-1.9 16.2-4.7-4.7-5.2 5.2c3.3 4.4 5.3 9.8 5.3 15.7 0 13.2-9.8 24-22.5 25.7v5.7h5.5V87H70v5.5h-6.8V87h-5.5v-5.5h5.5v-5.7c-3.8-.6-7.4-1.9-10.5-3.9zM34.6 20.7c4.2.2 8.1 1.3 11.7 3l1.4-1.4-3.4-3.4-10.1-1.2.4 3z"></path></g></symbol></defs></svg><a class="root--JrRdn" href="https://go.superchatlive.com/?realDomain=creative.xlviirdr.com&amp;userId=f191a5d5c55804a8a0f8da0d0d746f44a1168607e488eb2896c2b11224907f2e&amp;tag=girls%2Fteens&amp;sourceId=videoslider_av19org&amp;thumbModelId=108130250&amp;thumbUrl=https%3A%2F%2Fimg.strpst.com%2Fthumbs%2F1695408300%2F108130250_webp&amp;onlineModels=Best_Blondie&amp;filtersMatch=1&amp;modelsInWatchHistoryCount=-1&amp;modelsInFavoritesCount=-1&amp;userType=newuser&amp;modelsCount=1&amp;segment=hls-newAPI&amp;path=%2F&amp;i=0&amp;ib=0&amp;landing=Spot&amp;referrer" id="model-108130250" target="_blank" rel="noopener" style="background-image: url(&quot;https://img.strpst.com/thumbs/1695408300/108130250_webp&quot;);"><img class="img--YWbK3" src="https://img.strpst.com/thumbs/1695408300/108130250_webp" alt="Best_Blondie" style="object-fit: cover;"><div class="header--COb0Z"><div class="root--aFfDV"><div class="root--LhO1W"><div class="left--Vf4-s"><div class="root--tVeSu"><div class="root--3KIsO"><span class="online--+zD2p"></span><span>LIVE</span></div></div></div></div></div></div><div class="root--+9vNo"><div class="inner--w8Qlv"><video preload="none" id="108130250" loop="" playsinline="true" src="blob:https://av19.org/c8ca7ae6-da47-40cd-aad1-ef77a70fb106" style="height: auto; width: 100%; max-height: unset;"></video></div></div><div class="footer--AApH4"><div class="root--8jrgo"><div class="root--LhO1W"><div class="left--Vf4-s"><div qa-element="model-name" class="model-name--rPs-X">Best_Blondie</div><svg class="icon" viewBox="0 0 100 100"><use href="#icon-females" xlink:href="#icon-females"></use></svg></div></div></div></div></a></div><button class="close-button--wsOv0" type="button">Close ad ×</button><a class="cta-button--ddtCz" target="_blank" href="https://go.superchatlive.com/?realDomain=creative.xlviirdr.com&amp;userId=f191a5d5c55804a8a0f8da0d0d746f44a1168607e488eb2896c2b11224907f2e&amp;tag=girls%2Fteens&amp;sourceId=videoslider_av19org&amp;thumbModelId=108130250&amp;thumbUrl=https%3A%2F%2Fimg.strpst.com%2Fthumbs%2F1695408300%2F108130250_webp&amp;onlineModels=Best_Blondie&amp;filtersMatch=1&amp;modelsInWatchHistoryCount=-1&amp;modelsInFavoritesCount=-1&amp;userType=newuser&amp;modelsCount=1&amp;segment=hls-newAPI&amp;path=%2F&amp;i=0&amp;ib=0&amp;landing=Spot&amp;referrer"><span>라이브 섹스</span></a></div>
+
+<div x-data="{
+	showDropdown: null,
+	showCollapse: null,
+	showLocaleSwitcher: false,
+	showSearch: window.location.pathname.startsWith('/search/'),
+	searchHistory: [],
+	showPreview: null,
+	holdPreviews: [],
+	showModal: {
+		login: false,
+	},
+	currentPage: 'login',
+	locale: 'ko',
+	fallbackLocale: 'zh',
+	user: null,
+	loadedRecaptcha: false,
+	loginCallback: null,
+	toggleSearch() {
+		let type
+
+		this.showSearch = ! this.showSearch
+
+		if (this.showSearch) {
+			this.showDropdown = null
+
+			this.$nextTick(() => {
+				this.$refs.search.select()
+			})
+		}
+	},
+	search(keyword) {
+		keyword = keyword.trim()
+
+		if (! keyword) {
+			return
+		}
+
+		keyword = encodeURIComponent(keyword.replace('\\', ''))
+
+		let searchHistory = this.getSearchHistory()
+
+		if (searchHistory.includes(keyword)) {
+			searchHistory.splice(searchHistory.indexOf(keyword), 1)
+		}
+
+		searchHistory.unshift(keyword);
+
+		window.Cookies.set('search_history', JSON.stringify(searchHistory), { expires: 365 })
+
+		window.location.href = this.locale === this.fallbackLocale ? `/search/${keyword}` : `/${this.locale}/search/${keyword}`
+	},
+	getSearchHistory() {
+		const searchHistoryText = window.Cookies.get('search_history')
+
+		if (! searchHistoryText) {
+			return []
+		}
+
+		return JSON.parse(searchHistoryText).slice(0, 5)
+	},
+	clearSearchHistory() {
+		window.Cookies.remove('search_history')
+
+		this.searchHistory = []
+	},
+	clearWatchHistory() {
+		this.showDropdown = null
+
+		if (! confirm(`시청 기록을 모두 지우시겠습니까?`)) {
+			return
+		}
+
+		window.axios.delete('#').then(response => {
+			alert(`시청 기록이 삭제되었습니다`)
+
+			window.location.href = '#'
+		})
+	},
+	localizedUrl(locale) {
+		let path = window.location.pathname
+
+		if (! path.endsWith('/')) {
+			path = `${path}/`
+		}
+
+		path = path + window.location.search
+
+		if (locale === this.fallbackLocale) {
+			return this.removeTrailingSlash(path
+				.replace('/cn/', '/').replace('/en/', '/').replace('/ja/', '/').replace('/ko/', '/').replace('/ms/', '/').replace('/th/', '/').replace('/de/', '/').replace('/fr/', '/')
+			)
+		}
+
+		if (path.startsWith('/cn/') || path.startsWith('/en/') || path.startsWith('/ja/') || path.startsWith('/ko/') || path.startsWith('/ms/') || path.startsWith('/th/') || path.startsWith('/de/') || path.startsWith('/fr/')) {
+			return this.removeTrailingSlash(path
+				.replace('/cn/', `/${locale}/`).replace('/en/', `/${locale}/`).replace('/ja/', `/${locale}/`).replace('/ko/', `/${locale}/`).replace('/ms/', `/${locale}/`).replace('/th/', `/${locale}/`).replace('/de/', `/${locale}/`).replace('/fr/', `/${locale}/`)
+			)
+		}
+
+		return this.removeTrailingSlash(`/${locale}${path}`)
+	},
+	removeTrailingSlash(url) {
+		if (url.substr(url.length - 1) === '/') {
+			return url.slice(0, -1)
+		}
+
+		return url.replace('/?', '?')
+	},
+	redirectToBaseLocalizedUrl() {
+		window.Cookies.set('localized', 1, { expires: 30 })
+
+		setTimeout(() => {
+			window.location.href = '/?localized=1'
+		}, 100)
+	},
+	loadRecaptcha() {
+		if (! this.loadedRecaptcha) {
+			this.loadedRecaptcha = true
+
+			let script = document.createElement('script')
+			script.type = 'text/javascript';
+			script.src = '#'
+
+			document.getElementsByTagName('head')[0].appendChild(script)
+		}
+	},
+	requireRecaptcha(callback) {
+		grecaptcha.ready(() => {
+			grecaptcha.execute('6Leez8oZAAAAABJqF0uuw35s7N50I1pZkIJBO1QT', { action: 'submit' }).then(recaptchaToken => {
+				callback(recaptchaToken)
+			})
+		})
+	},
+	showLoginModal(page) {
+		this.loadRecaptcha()
+
+		this.showModal.login = true
+
+		if (page) {
+			this.currentPage = page
+		}
+	},
+	requireLogin(callback) {
+		if (! this.user) {
+			this.loginCallback = callback
+			this.showLoginModal()
+
+			return
+		}
+
+		callback()
+	},
+	handleErrorResponse(page, error) {
+		this.errors[page] = error.response.data.errors
+	},
+	setPreview(id) {
+		if (window.innerWidth < 1024) {
+			return
+		}
+
+		if (this.showPreview) {
+			const previousPreview = document.getElementById(`preview-${this.showPreview}`)
+
+			if (previousPreview) {
+				previousPreview.pause()
+			}
+		}
+
+		if (! id) {
+			this.showPreview = id
+			return
+		}
+
+		this.playPreview(id)
+	},
+	playPreview(id) {
+		const preview = document.getElementById(`preview-${id}`)
+
+		if (! preview.getAttribute('src')) {
+			preview.addEventListener('loadedmetadata', event => {
+				event.target.play()
+
+				this.showPreview = id
+			})
+
+			preview.setAttribute('src', preview.getAttribute('data-src'))
+		} else {
+			preview.play()
+
+			this.showPreview = id
+		}
+	},
+}" x-init="$nextTick(() => {
+	for (element of document.getElementsByClassName('font-serif')) {
+		element.style.visibility = 'visible'
+	}
+
+	searchHistory = getSearchHistory()
+})">
+<div id="relative">
+<div id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+	<div class="site-branding row">
+		<div class="logo">
+			<a href="https://av19.org" rel="home" title="AV19">
+			<img class="lazy" src="https://cdnbuzz.buzz/images/icon1.png" alt="AV19">
+
+			</a>
+		</div>
+		<div class="header-search small-search">
+      <form name="fsearchbox" id="searchform" method="get" action="https://av19.org/bbs/search.php" onsubmit="return fsearchbox_submit(this);">
+      <input type="hidden" name="sfl" value="wr_subject||wr_content">
+      <input type="hidden" name="sop" value="and">
+      <label for="sch_stx" class="sound_only">검색어 필수</label>
+      <input class="input-group-field" title="Search..." value="Search..." name="stx" id="sch_stx" onfocus="if (this.value=='Search...') {this.value='';}" onblur="if (this.value=='') {this.value='Search...';}" type="text">
+      <input class="fa-input" type="submit" id="searchsubmit" value="">
+      </form>
+
+      <script>
+      function fsearchbox_submit(f)
+      {
+          if (f.stx.value.length < 2) {
+              alert("검색어는 두글자 이상 입력하십시오.");
+              f.stx.select();
+              f.stx.focus();
+              return false;
+          }
+
+          // 검색에 많은 부하가 걸리는 경우 이 주석을 제거하세요.
+          var cnt = 0;
+          for (var i=0; i<f.stx.value.length; i++) {
+              if (f.stx.value.charAt(i) == ' ')
+                  cnt++;
+          }
+
+          if (cnt > 1) {
+              alert("빠른 검색을 위하여 검색어에 공백은 한개만 입력할 수 있습니다.");
+              f.stx.select();
+              f.stx.focus();
+              return false;
+          }
+
+          return true;
+      }
+      </script>
+		</div>
+
+		<style>
+		.pclogin { display:block }
+		.mologin { display:none }
+
+		@media all and (max-width:700px) {
+			.pclogin { display:none }
+			.mologin { display:block; float:right; margin-top:-5px; margin-right:60px; }
+		}
+		</style>
+			
+		<div class="clear"></div>
+
+    <nav id="site-navigation" class="main-navigation">
+		<div id="head-mobile"></div>
+		<div class="button-nav"></div>
+
+		<ul id="menu-main-menu" class="menu">
+
+            <li class="menu-item menu-item-has-children"><a href="https://그린툰.com" target="_blank"><span>무료웹툰</span></a>
+
+              </li>
+            <li class="menu-item menu-item-has-children has-sub"><span class="submenu-button"></span><a href="/korea" target="_self"><span>한국야동</span></a>
+
+      <ul class="sub-menu">
+          <li class="menu-item"><a href="https://av19.org/korea" target="_self">한국야동 1관</a></li>
+                    <li class="menu-item"><a href="https://av19.org/koreayadong" target="_self">한국야동 2관</a></li>
+                    <li class="menu-item"><a href="/popp.php" target="_self">인기검색어</a></li>
+                    <li class="menu-item"><a href="/avsee.php" target="_self">인기야동</a></li>
+          </ul>
+        </li>
+            <li class="menu-item menu-item-has-children has-sub"><span class="submenu-button"></span><a href="/javsub" target="_self"><span>자막야동</span></a>
+
+      <ul class="sub-menu">
+          <li class="menu-item"><a href="/javsub" target="_self">일본유모-자막</a></li>
+                    <li class="menu-item"><a href="/fcppv_jamak" target="_self">FC2PPV-한글자막</a></li>
+          </ul>
+        </li>
+            <li class="menu-item menu-item-has-children has-sub"><span class="submenu-button"></span><a href="#" target="_self"><span>아마추어</span></a>
+
+      <ul class="sub-menu">
+          <li class="menu-item"><a href="https://av19.org/siro" target="_self">SIRO</a></li>
+                    <li class="menu-item"><a href="https://av19.org/luxu" target="_self">LUXU AV</a></li>
+                    <li class="menu-item"><a href="/gana" target="_self">GANA AV</a></li>
+                    <li class="menu-item"><a href="/maan" target="_self">PRESTIGE PREMIUM AV</a></li>
+                    <li class="menu-item"><a href="/scute" target="_self">S-CUTE AV</a></li>
+                    <li class="menu-item"><a href="/ara" target="_self">ARA AV</a></li>
+                    <li class="menu-item"><a href="/china" target="_self">중국야동</a></li>
+          </ul>
+        </li>
+            <li class="menu-item menu-item-has-children has-sub"><span class="submenu-button"></span><a href="/javnew" target="_self"><span>AV유모</span></a>
+
+      <ul class="sub-menu">
+          <li class="menu-item"><a href="/javnew" target="_self">일본야동</a></li>
+                    <li class="menu-item"><a href="/javrelease" target="_self">AV신작</a></li>
+          </ul>
+        </li>
+            <li class="menu-item menu-item-has-children has-sub"><span class="submenu-button"></span><a href="/fc2ppv" target="_self"><span>AV노모</span></a>
+
+      <ul class="sub-menu">
+          <li class="menu-item"><a href="https://av19.org/fc2ppv" target="_self">FC2-PPV</a></li>
+                    <li class="menu-item"><a href="https://av19.org/leak" target="_self">노모유출</a></li>
+                    <li class="menu-item"><a href="https://av19.org/heyzo" target="_self">HEYZO</a></li>
+                    <li class="menu-item"><a href="https://av19.org/10musume" target="_self">10musume</a></li>
+                    <li class="menu-item"><a href="https://av19.org/1pondo" target="_self">1pondo</a></li>
+                    <li class="menu-item"><a href="https://av19.org/caribbeancom" target="_self">caribbeancom</a></li>
+                    <li class="menu-item"><a href="https://av19.org/caribbeancompr" target="_self">caribbeancompr</a></li>
+                    <li class="menu-item"><a href="https://av19.org/gachinco" target="_self">gachinco</a></li>
+                    <li class="menu-item"><a href="https://av19.org/marriedslash" target="_self">C0930 (유부녀)</a></li>
+                    <li class="menu-item"><a href="https://av19.org/tokyohot" target="_self">도쿄핫</a></li>
+                    <li class="menu-item"><a href="https://av19.org/xxxav" target="_self">XXX-AV</a></li>
+                    <li class="menu-item"><a href="https://av19.org/pacopacomama" target="_self">pacopacomama</a></li>
+                    <li class="menu-item"><a href="https://av19.org/naughty0930" target="_self">H0930</a></li>
+                    <li class="menu-item"><a href="https://av19.org/naughty4610" target="_self">H4610</a></li>
+          </ul>
+        </li>
+            <li class="menu-item menu-item-has-children"><a href="/bj" target="_self"><span>BJ야동</span></a>
+
+              </li>
+            <li class="menu-item menu-item-has-children has-sub"><span class="submenu-button"></span><a href="#" target="_self"><span>내 컬렉션</span></a>
+
+      <ul class="sub-menu">
+          <li class="menu-item"><a href="/saved.php" target="_self">내 비디오 컬렉션</a></li>
+                    <li class="menu-item"><a href="/playlists.php" target="_self">내 재생목록</a></li>
+                    <li class="menu-item"><a href="/actresses.php" target="_self">내 여배우 컬렉션</a></li>
+                    <li class="menu-item"><a href="/history.php" target="_self">시청기록</a></li>
+                    <li class="menu-item"><a href="/hot.php?sort=monthly_views" target="_self">인기야동 (월간)</a></li>
+                    <li class="menu-item"><a href="/genre.php" target="_self">장르별야동</a></li>
+          </ul>
+        </li>
+      
+				<li class="home-icon menu-item pclogin">
+			<img width="32" height="32" src="https://cdnbuzz.buzz/img/avatar.svg" alt="로그인" style="border-radius:16px; cursor:pointer; margin-top:13px; border:1px solid #ddd;" @click.prevent="showLoginModal('login')">
+		</li>
+		
+    </ul>
+
+				<style>
+		.pclogin { display:block }
+		.mologin { display:none }
+
+		@media all and (max-width:700px) {
+			.pclogin { display:none !important; }
+			.mologin { display:block; position:absolute; top:0px; right:0px; }
+		}
+		</style>
+		<div class="mologin">
+			<img width="32" height="32" src="https://cdnbuzz.buzz/img/avatar.svg" alt="로그인" style="border-radius:16px; cursor:pointer; margin-top:13px; border:1px solid #ddd;" @click.prevent="showLoginModal('login')">
+		</div>
+		
+		</nav>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+
+	</header>
+</div>
+
+    
+
+<div id="content" class="site-content row" style="min-height: 1em !important;">
+<div class="col-md-12 mobile-banner" style="">
+<style>
+
+	/*.col-md-4.col-sm-6.col-xs-6.text-center.banner_m {padding-bottom: 15px;}*/
+	section.row.clearfix.top_banner{margin:0 -3px;}
+
+	.col-md-4.col-sm-6.col-xs-6.text-center.banner_m{width:50%;padding:0 3px 6px;box-sizing: border-box; float:left; height:70px; margin-bottom:10px; }
+
+	.col-md-4.col-sm-6.col-xs-6.text-center.banner_m img { min-height:70px; height:70px; width:100%; min-width:100%; }
+
+	.main_top_bann2 { margin-top : 6px; }
+	@media (max-width: 767px){
+		
+		section.row.clearfix.top_banner {margin:0 0 0 -10px;}
+		.col-md-4.col-sm-6.col-xs-6.text-center.banner_m {		
+		width: 50%; padding:0 0 3px 3px; box-sizing: border-box;
+		}
+		.main_top_bann{margin:0 0 3px -6px;}\
+		.main_top_bann2{margin:0 0 0 -6px;  margin-top : 3px !important;}\
+	}
+	@media (max-width: 600px){
+		.col-md-4.col-sm-6.col-xs-6.text-center.banner_m{ min-width:100%; width:100%; height:50px; margin-bottom:6px; overflow:hidden; }
+		.col-md-4.col-sm-6.col-xs-6.text-center.banner_m img { min-height:50px; height:50px; width:100%; }
+	}
+	
+	.bn div a img{
+		width:100%
+
+	}
+	.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+		line-height: 5;
+	}
+	.carousel {
+		position: relative;
+	}
+</style>
+
+
+<style>
+    /* 기존 스타일 */
+    .col-md-4.col-sm-6.col-xs-6.text-center.banner_m {width:50%;padding:0 3px 6px;box-sizing: border-box; float:left; height:70px; margin-bottom:10px; }
+    .col-md-4.col-sm-6.col-xs-6.text-center.banner_m img { min-height:70px; height:70px; width:100%; min-width:100%; }
+    .main_top_bann2 { margin-top : 6px; }
+
+    @media (max-width: 767px){
+        section.row.clearfix.top_banner {margin:0 0 0 -10px;}
+        .col-md-4.col-sm-6.col-xs-6.text-center.banner_m {
+            width: 50%; padding:0 0 3px 3px; box-sizing: border-box;
+        }
+        .main_top_bann{margin:0 0 3px -6px;}\
+        .main_top_bann2{margin:0 0 0 -6px;  margin-top : 3px !important;}\
+    }
+    @media (max-width: 600px){
+        .col-md-4.col-sm-6.col-xs-6.text-center.banner_m{ min-width:100%; width:100%; height:50px; margin-bottom:6px; overflow:hidden; }
+        .col-md-4.col-sm-6.col-xs-6.text-center.banner_m img { min-height:50px; height:50px; width:100%; }
+    }
+    
+    /* PC 화면에서만 표시되도록 하는 스타일 */
+    @media (max-width: 767px) {
+        .pc-only {
+            display: none;
+        }
+    }
+</style>
+
+<div class="row pc-only"><div class="float-left col-md-4 col-sm-6 col-xs-6 text-center banner_m"><a onclick="alert(''); window.open('https://david.cdnbuzz.buzz/go4.php?url=http://nh702.com');" style="cursor:pointer;"></a><a href="https://david.cdnbuzz.buzz/go4.php?url=http://nh702.com" target="_blank"><img src="/banner/700x70n.gif" alt=""></a></div></div><div class="row pc-only"><div class="float-left col-md-4 col-sm-6 col-xs-6 text-center banner_m"><a onclick="alert(''); window.open('https://david.cdnbuzz.buzz/go4.php?url=http://Mx-a101.com');" style="cursor:pointer;"></a><a href="https://david.cdnbuzz.buzz/go4.php?url=http://Mx-a101.com" target="_blank"><img src="/banner/700x70m.gif" alt=""></a></div></div><div class="row pc-only"><div class="float-left col-md-4 col-sm-6 col-xs-6 text-center banner_m"><a onclick="alert(''); window.open('https://david.cdnbuzz.buzz/go4.php?url=http://slz152.com');" style="cursor:pointer;"></a><a href="https://david.cdnbuzz.buzz/go4.php?url=http://slz152.com" target="_blank"><img src="/banner/700x70-ss.gif" alt=""></a></div></div><div class="row pc-only"><div class="float-left col-md-4 col-sm-6 col-xs-6 text-center banner_m"><a onclick="alert(''); window.open('https://david.cdnbuzz.buzz/go4.php?url=http://펀가입new.com');" style="cursor:pointer;"></a><a href="https://david.cdnbuzz.buzz/go4.php?url=http://펀가입new.com" target="_blank"><img src="/banner/700x70f.gif" alt=""></a></div></div><div class="row pc-only"><div class="col-md-12 text-center" style="margin-bottom: 10px;"><a href="https://david.cdnbuzz.buzz/go4.php?url=http://slz152.com" target="_blank"><img src="https://david.cdnbuzz.buzz/banner/111 (3).gif" alt="" style="width:100%; height:auto;"></a></div></div><div class="row pc-only"><div class="col-md-12 text-center" style="margin-bottom: 10px;"><a href="https://david.cdnbuzz.buzz/go4.php?url=http://jpjp7070.com" target="_blank"><img src="https://david.cdnbuzz.buzz/banner/111 (5).gif" alt="" style="width:100%; height:auto;"></a></div></div><div class="row pc-only"><div class="col-md-12 text-center" style="margin-bottom: 10px;"><a href="https://david.cdnbuzz.buzz/go4.php?url=http://ngall5858.com" target="_blank"><img src="https://david.cdnbuzz.buzz/banner/111 (1).gif" alt="" style="width:100%; height:auto;"></a></div></div><div class="row pc-only"><div class="col-md-12 text-center" style="margin-bottom: 10px;"><a href="https://david.cdnbuzz.buzz/go4.php?url=http://vt231.com" target="_blank"><img src="https://david.cdnbuzz.buzz/banner/111 (2).gif" alt="" style="width:100%; height:auto;" title=""></a></div></div>
+
+
+<style>
+.mobile-only {
+    display: none; /* 데스크톱 화면에서는 mobile-only 클래스를 가진 요소를 숨깁니다 */
+}
+
+.mobile-only .banner_m {
+    float: left;
+    box-sizing: border-box;
+}
+
+.mobile-only img {
+    width: 100%;
+    height: auto;
+}
+
+/* 모바일 화면에서의 뷰를 최적화 */
+@media only screen and (max-width: 600px) {
+    .mobile-only {
+        display: block; /* 모바일 화면에서는 mobile-only 클래스를 가진 요소를 표시합니다 */
+    }
+    
+    .mobile-only .banner_m {
+        width: calc(50% - 3px); /* 3px 간격을 고려하여 너비 조정 */
+        margin-right: 5px; /* 오른쪽 간격을 3px로 설정 */
+        margin-bottom: 5px; /* 아래쪽 간격을 3px로 설정 */
+    }
+
+    .mobile-only .banner_m:nth-of-type(2n) {
+        margin-right: 0; /* 짝수 배너에는 오른쪽 마진을 제거 */
+    }
+}
+</style>
+
+
+
+<div class="row mobile-only"><div class="banner_m text-center"><a href="https://david.cdnbuzz.buzz/go2.php?url=http://펀가입new.com" target="_blank"><img src="/banner/95 (2).gif" alt="가입코드 AV19" style="width:100%; height:auto;"></a></div><div class="banner_m text-center"><a href="https://david.cdnbuzz.buzz/go2.php?url=http://nh702.com" target="_blank"><img src="/banner/95 (3).gif" alt="가입코드 AV19" style="width:100%; height:auto;"></a></div><div class="banner_m text-center"><a href="https://david.cdnbuzz.buzz/go2.php?url=http://Mx-a101.com" target="_blank"><img src="/banner/95 (1).gif" alt="가입코드 AV19" style="width:100%; height:auto;"></a></div><div class="banner_m text-center"><a href="https://david.cdnbuzz.buzz/go2.php?url=http://slz152.com" target="_blank"><img src="/banner/s-400x95.gif" alt="가입코드 AV19" style="width:100%; height:auto;"></a></div></div><div class="row mobile-only"><div class="col-md-12 text-center" style="margin-bottom: 10px;"><a href="https://david.cdnbuzz.buzz/go2.php?url=http://slz152.com" target="_blank"><img src="https://david.cdnbuzz.buzz/banner/700 (4).gif" alt="가입코드 AV19" style="width:100%; height:auto;"></a></div></div><div class="row mobile-only"><div class="col-md-12 text-center" style="margin-bottom: 10px;"><a href="https://david.cdnbuzz.buzz/go2.php?url=http://jpjp7070.com" target="_blank"><img src="https://david.cdnbuzz.buzz/banner/700 (1).gif" alt="가입코드 AV19" style="width:100%; height:auto;"></a></div></div><div class="row mobile-only"><div class="col-md-12 text-center" style="margin-bottom: 10px;"><a href="https://david.cdnbuzz.buzz/go2.php?url=http://ngall5858.com " target="_blank"><img src="https://david.cdnbuzz.buzz/banner/700 (2).gif" alt="가입코드 AV19" style="width:100%; height:auto;"></a></div></div><div class="row mobile-only"><div class="col-md-12 text-center" style="margin-bottom: 10px;"><a href="https://david.cdnbuzz.buzz/go2.php?url=http://vt231.com" target="_blank"><img src="https://david.cdnbuzz.buzz/banner/700 (3).gif" alt="가입코드 AV19" style="width:100%; height:auto;"></a></div></div>
+
+
+	 </div>
+</div>
+
+<!-- } 상단 끝 -->
+
+<div class="breadcrumbs-area">
+	<div class="row">
+		<ul id="breadcrumbs" class="breadcrumbs">
+			<li class="item-home"><a class="bread-link bread-home" href="https://av19.org" title="JAV">JAV</a></li>
+			<li class="separator separator-home"><i class="fa fa-chevron-right"></i></li>
+			<li class="item-cat"><a class="bread-cat" href="https://av19.org" title="Categories">Categories</a></li>
+			<li class="separator"><i class="fa fa-chevron-right"></i></li>
+			<li class="item-current item-cat"><strong class="bread-current bread-cat">한국야동</strong></li>
+		</ul>
+	</div>
+</div>
+
+<!--contents-->
+<div id="content" class="site-content row">
+
+
+<!-- 상단 광고 --
+
+	<div class="header-ad-desktop" style="text-align: center;">
+<script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
+ <ins class="adsbyexoclick" data-zoneid="4840826"></ins> 
+ <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+</div>
+
+<!-- 상단 광고 -->
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+		<header class="page-header">
+		<h1 class="widget-title"><strong>한국야동</strong></h1>
+
+		<div class="toggle_list">
+				<input id="toggle-on" class="toggle toggle-left" name="toggle" value="false" type="radio" checked="">
+				<label for="toggle-on" class="btn_to"><i class="fa fa-th-large" aria-hidden="true"></i></label>
+				<input id="toggle-off" class="toggle toggle-right" name="toggle" value="true" type="radio">
+				<label for="toggle-off" class="btn_to"><i class="fa fa-th-list" aria-hidden="true"></i></label>
+		</div>
+
+		
+		<div id="filters">
+			<div class="filters-select">
+				<i class="fa fa-filter"></i><span>Sort by</span>
+				<div class="filters-options">
+					<span><a class="" href="<a href=" bbs="" board.php?bo_table="korea&amp;sop=and&amp;sst=wr_datetime&amp;sod=desc&amp;sfl=&amp;stx=&amp;sca=&amp;page=1&quot;">"&gt;Latest</a></span>
+					<span><a class="" href="<a href=" bbs="" board.php?bo_table="korea&amp;sop=and&amp;sst=wr_hit&amp;sod=desc&amp;sfl=&amp;stx=&amp;sca=&amp;page=1&quot;">"&gt;Most viewed</a></span>
+				</div>
+			</div>
+		</div>
+		</header>
+		<div class="videos-list">
+
+    <form name="fboardlist" id="fboardlist" action="https://av19.org/bbs/board_list_update.php" onsubmit="return fboardlist_submit(this);" method="post">
+    <input type="hidden" name="bo_table" value="korea">
+    <input type="hidden" name="sfl" value="">
+    <input type="hidden" name="stx" value="">
+    <input type="hidden" name="spt" value="">
+    <input type="hidden" name="sst" value="wr_num, wr_reply">
+    <input type="hidden" name="sod" value="">
+    <input type="hidden" name="page" value="1">
+    <input type="hidden" name="sw" value="">
+
+
+    
+
+        
+
+					
+         <article id="post-12407" data-video-uid="12407" data-post-id="12407" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12407" data-title="yumi온팬올노섹스사까시모음">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_94KdAWHe_a01a465ffd704af454ddd0353702dded6c0d6959_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 762</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 126</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>yumi온팬올노섹스사까시모음</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12406" data-video-uid="12406" data-post-id="12406" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12406" data-title="술찡긴전여친">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_sw6uAYZ0_ffb311213f47f51ac2ce32dc093f7344e4d03d54_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 511</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 11</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>술찡긴전여친</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12405" data-video-uid="12405" data-post-id="12405" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12405" data-title="유주 마사지">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_EKrVvoaZ_e6644091638274ba05cc8f9cd2d9b5ef865f5e4a_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 406</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 11</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>유주 마사지</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12404" data-video-uid="12404" data-post-id="12404" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12404" data-title="밀키스커플">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_9bvouQMq_5eafaff6f403eacf4ee87df2e729d713a504b22c_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 310</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 8</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>밀키스커플</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12403" data-video-uid="12403" data-post-id="12403" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12403" data-title="부부교환 강남아파트3대3">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_meXwPa0J_11679ed93adb6cd4bb1d287634f6c93ef875a39f_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 388</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 9</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>부부교환 강남아파트3대3</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12402" data-video-uid="12402" data-post-id="12402" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12402" data-title="이유나 오럴섹스모음">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_XbGHQPcK_5d63edf0337eb3cb5b32210b7a4fde611eb4d1d3_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 553</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 44</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>이유나 오럴섹스모음</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12401" data-video-uid="12401" data-post-id="12401" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12401" data-title="86년생 왕가슴녀 원룸풀팩">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_bJNihkDz_440eea6c48fe023f974b52a11751cc2f7e5b4933_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 343</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 11</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>86년생 왕가슴녀 원룸풀팩</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12400" data-video-uid="12400" data-post-id="12400" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12400" data-title="이유나 교실에서 떡치기">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_2zw0xYON_88d5a514e638294b26dda235f293441294263100_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 759</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 64</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>이유나 교실에서 떡치기</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12399" data-video-uid="12399" data-post-id="12399" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12399" data-title="이유나 화장실오줌싸다사까시">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_OfUqFwT2_1e23a1afd547f15be46e96a1cb70d9e4ad67acf4_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 468</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 39</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>이유나 화장실오줌싸다사까시</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12398" data-video-uid="12398" data-post-id="12398" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12398" data-title="이유나 흰색스타킹찢고섹스">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_eFhj6cdJ_f9cf7333bdf6a832d04fa4febe126034baf5e2ff_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 464</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 34</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>이유나 흰색스타킹찢고섹스</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12397" data-video-uid="12397" data-post-id="12397" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12397" data-title="밀키스커플2">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_yU4jpsX2_77f102ba181a0c598f7f0c5b006ae87b83a624fb_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 213</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 6</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>밀키스커플2</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12396" data-video-uid="12396" data-post-id="12396" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12396" data-title="이유나 공중화장실에서 섹스">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_Dry3dVef_883ddc2422f00d26e8ea9a66ab5cc63874db3fb0_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 433</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 48</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>이유나 공중화장실에서 섹스</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12395" data-video-uid="12395" data-post-id="12395" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12395" data-title="이유나 올노자위">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_5vFNMdAn_e7118432ffb06fc37c00523f03fd65d7a35068a5_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 330</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 19</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>이유나 올노자위</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12394" data-video-uid="12394" data-post-id="12394" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12394" data-title="이유나 오럴섹스">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_o0g3lujB_f4acec52bed8dc12ff9844610b3849afce96d3fd_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 344</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 23</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>이유나 오럴섹스</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12393" data-video-uid="12393" data-post-id="12393" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12393" data-title="문신노예녀">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_qhbGcB37_930b1344040c095bce7358242a31d0b9f99e719b_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 337</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 18</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>문신노예녀</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12392" data-video-uid="12392" data-post-id="12392" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12392" data-title="화장실 후장섹스">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_FgE9U3uG_b516cdca1a48d9d60c20703c1f7c64afc4f12fac_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 254</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 1</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>화장실 후장섹스</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12391" data-video-uid="12391" data-post-id="12391" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12391" data-title="트위터 화장실 후장섹스">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_YH93fmCI_d012d2ddab9808f1c5b9d7ed2e9cbabfcf576f57_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 231</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 3</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>트위터 화장실 후장섹스</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12390" data-video-uid="12390" data-post-id="12390" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12390" data-title="신혼부부섹스격렬하게">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_wm86Gekh_366e38f525ce754c01819eecbabf841449c0c538_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 275</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 7</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>신혼부부섹스격렬하게</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12389" data-video-uid="12389" data-post-id="12389" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12389" data-title="후장자위녀">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_UOLE8nT9_3468ce46053970b588f56d522830f0a42156eae2_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 241</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 8</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>후장자위녀</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12388" data-video-uid="12388" data-post-id="12388" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12388" data-title="호텔제이올노섹스">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_RQJtjC1I_e514da2f8c3a4b8fde5c102ea8fdbf46d2f20471_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 514</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 49</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>호텔제이올노섹스</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12387" data-video-uid="12387" data-post-id="12387" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12387" data-title="야외섹스">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_E8QUCe7W_076ef299aee3c81c0f1911ee80bf373c0abc80e1_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 318</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 10</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>야외섹스</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12386" data-video-uid="12386" data-post-id="12386" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12386" data-title="전 섹파 뒤치기풀팩">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_nUYejILy_a33121a19aaea85aabdb62e550ed2ff701a7f910_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 354</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 17</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>전 섹파 뒤치기풀팩</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12385" data-video-uid="12385" data-post-id="12385" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12385" data-title="여친묶고">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="/data/file/korea/thumb-_pzTPEDXq_0cd113f36396922f94b2b0e262149489fbfd84a5_342x193.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 322</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 6</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>여친묶고</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-22           </div>
+           </footer>
+         </article>
+
+        
+
+					
+         <article id="post-12321" data-video-uid="12321" data-post-id="12321" class="thumb-block full-width loop-video">
+                      <a class="archive-entry" href="https://av19.org/korea/12321" data-title="한국야동-방효진 치위생사 원본(2)">
+           <div class="post-thumbnail">
+             <div class="post-thumbnail-container video-with-trailer">
+               <div class="video-debounce-bar">
+               </div>
+               <div class="video-preview" data-mediabook="" style="width: 342px; height: 192.375px;">
+                 <video width="100%" id="video_pla" height="100%" loop="" muted="" playsinline="" preload="none"><source src="" type="video/mp4">Your browser does not support the video tag.</video>
+               </div>
+               <div class="">
+                 <img class="video-img loaded lazyloaded" src="https://down.imagecdn.top/n5//0600/watch/a_1695322903_72743432016044/a_1695322903_72743432016044.jpg" alt="" style="width: 342px; height: 192.375px;">               </div>
+             </div>
+             <span class="hd-video">HD</span>
+			 <!--<span class="views"><i class="fa fa-eye"></i> 4521</span>-->
+
+
+
+							<span class="duration"><i class="fa fa-heart-o"></i> 226</span>
+			
+
+
+
+           </div>
+           <header class="entry-header">
+           <span>한국야동-방효진 치위생사 원본(2)</span>
+           </header>
+           </a>
+           <footer class="entry-footer">
+           <div class="comment-metadata">
+             <i class="fa fa-calendar" style="color: rgb(100, 108, 121);"></i> Update: 2023-09-21           </div>
+           </footer>
+         </article>
+
+        		
+        
+    <!-- 페이지 -->
+	
+    <div class="pagination"><ul><li><a class="current">1</a></li>
+<li><a href="https://av19.org/korea?page=2" class="inactive">2</a></li><li><a href="https://av19.org/korea?page=3" class="inactive">3</a></li><li><a href="https://av19.org/korea?page=4" class="inactive">4</a></li><li><a href="https://av19.org/korea?page=5" class="inactive">5</a></li><li><a href="https://av19.org/korea?page=6" class="inactive">6</a></li><li><a href="https://av19.org/korea?page=7" class="inactive">7</a></li><li><a href="https://av19.org/korea?page=8" class="inactive">8</a></li><li><a href="https://av19.org/korea?page=9" class="inactive">9</a></li><li><a href="https://av19.org/korea?page=10" class="inactive">10</a></li><li><a href="https://av19.org/korea?page=11">다음</a></li>
+<li><a href="https://av19.org/korea?page=473">마지막</a></li>	
+</ul></div>    <!-- 페이지 -->
+
+        </form>
+
+</div>
+
+
+<!-- } 게시판 목록 끝 -->
+
+</main>
+</div>
+</div>
+<!--//contents-->
+
+
+<footer id="colophon" class="site-footer">
+<div class="row">
+	<div class="footer-ad-mobile"></div>
+	<div class="footer-ad"></div>
+	<div class="one-column-footer">
+		<section id="widget_tags_block-2" class="widget widget_tags_block">
+		<div class="tagcloud">
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=Rina" class="tag-cloud-link" style="font-size: 12px;">Rina</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=밧줄" class="tag-cloud-link" style="font-size: 12px;">밧줄</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=RU" class="tag-cloud-link" style="font-size: 12px;">RU</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=얼공" class="tag-cloud-link" style="font-size: 12px;">얼공</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=귀요미" class="tag-cloud-link" style="font-size: 12px;">귀요미</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=Gangbang" class="tag-cloud-link" style="font-size: 12px;">Gangbang</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=029" class="tag-cloud-link" style="font-size: 12px;">029</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=약을" class="tag-cloud-link" style="font-size: 12px;">약을</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=헨" class="tag-cloud-link" style="font-size: 12px;">헨</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=k" class="tag-cloud-link" style="font-size: 12px;">k</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=stars-769" class="tag-cloud-link" style="font-size: 12px;">stars-769</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=lete" class="tag-cloud-link" style="font-size: 12px;">lete</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=발기한" class="tag-cloud-link" style="font-size: 12px;">발기한</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=전신이" class="tag-cloud-link" style="font-size: 12px;">전신이</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=묵고" class="tag-cloud-link" style="font-size: 12px;">묵고</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=입막" class="tag-cloud-link" style="font-size: 12px;">입막</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=mia" class="tag-cloud-link" style="font-size: 12px;">mia</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=슈원" class="tag-cloud-link" style="font-size: 12px;">슈원</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=pop" class="tag-cloud-link" style="font-size: 12px;">pop</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=보니" class="tag-cloud-link" style="font-size: 12px;">보니</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=랜스" class="tag-cloud-link" style="font-size: 12px;">랜스</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=무성" class="tag-cloud-link" style="font-size: 12px;">무성</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=볼버" class="tag-cloud-link" style="font-size: 12px;">볼버</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=So" class="tag-cloud-link" style="font-size: 12px;">So</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=stars-769" class="tag-cloud-link" style="font-size: 12px;">stars-769</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=남녀" class="tag-cloud-link" style="font-size: 12px;">남녀</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=보니" class="tag-cloud-link" style="font-size: 12px;">보니</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=cz" class="tag-cloud-link" style="font-size: 12px;">cz</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=통노" class="tag-cloud-link" style="font-size: 12px;">통노</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=김부름" class="tag-cloud-link" style="font-size: 12px;">김부름</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=사까시" class="tag-cloud-link" style="font-size: 12px;">사까시</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=dd" class="tag-cloud-link" style="font-size: 12px;">dd</a>
+						<a href="/bbs/search.php?sfl=wr_subject&amp;sop=and&amp;stx=골반" class="tag-cloud-link" style="font-size: 12px;">골반</a>
+					</div>
+		</section>
+		
+	</div>
+	<div class="clear"></div>
+	<div class="footer-menu-container">
+		<div class="menu-foot-menu-container">
+			<ul id="menu-foot-menu" class="menu">
+				<li class="menu-item"><a href="mailto:av19org@proton.me">DMCA</a></li>
+				<li class="menu-item"><a href="/18usc2256.php" target="blank">18 U.S.C. 2257</a></li>
+				<li class="menu-item"><a href="https://av19.site/" target="blank">AV19</a></li>
+
+				<li class="menu-item"><a href="/ya.php">인기야동</a></li>
+				<li class="menu-item"><a href="/topgirl.php?sort=weekly_views">주간인기야동</a></li>
+				<li class="menu-item"><a href="/avsee.php">AVSEE</a></li>
+				<li class="menu-item"><a href="/porn.php?sort=weekly_views">포르노</a></li>
+				<li class="menu-item"><a href="/popp.php">인기검색어</a></li>
+			
+				<!--<li class="menu-item"><a href="https://david.cdnbuzz.buzz/go2.php?url=https://t.me/banner_19" rel="nofollow"  target="_blank" onClick="alert('확인 버튼 클릭후 연결되는 텔레그램으로 연락 부탁드립니다.\n\n사칭이 많으니 주의 하시기 바랍니다')">광고문의</a></li>
+				-->
+
+			</ul>
+		</div>
+	</div>
+	<div class="site-info">
+		<br>
+		 All rights reserved. Powered by av19.org<br>
+<a href="https://av19.org">AV19</a> has a zero-tolerance policy against illegal pornography. All models are at least 18 years old on our web site. <br><a href="https://av19.org">av19.org</a> does not store any files on its server.
+<br>
+<!--
+<script id="_wau1f5">var _wau = _wau || []; _wau.push(["small", "r63rqwwi5g", "1f5"]);</script><script async src="//waust.at/s.js"></script>
+-->
+
+
+
+<script type="text/javascript">
+    function loadScript() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://creative.xlviirdr.com/widgets/Spot/lib-auto.js?autoplay=all&userId=f191a5d5c55804a8a0f8da0d0d746f44a1168607e488eb2896c2b11224907f2e&tag=girls/teens&autoclose=0&sourceId=videoslider_av19org';
+        script.id = 'SCSpotScript';
+        document.body.appendChild(script);
+    }
+
+    var firstVisitTime = localStorage.getItem('firstVisitTime');
+
+    if (!firstVisitTime) {
+        localStorage.setItem('firstVisitTime', new Date().getTime());
+        loadScript();
+    } else if (new Date().getTime() - firstVisitTime < 2 * 60 * 1000) {
+        loadScript();
+    }
+
+    setTimeout(() => {
+        var script = document.getElementById('SCSpotScript');
+        if (script) script.remove();
+    }, 2 * 60 * 1000 - (new Date().getTime() - firstVisitTime));
+</script>
+
+
+
+
+	
+	
+<!--
+<script id="_waumyh">var _wau = _wau || []; _wau.push(["small", "qny1go0nwar", "myh"]);</script><script async src="//waust.at/s.js"></script>
+-->
+
+
+
+	</div>
+</div>
+</footer>
+</div>
+
+<div x-show="showModal.login" class="fixed z-max inset-0 overflow-y-auto" aria-labelledby="modal-title" role="dialog" aria-modal="true" style="display: none;">
+	<div x-data="{ email: '', username: '', old_password: '', password: '', password_confirmation: '', remember: true, loading: { loading: false, register: false, forget: false, changepassword: false, }, errors: { login: {}, register: {}, forget: {}, changepassword: {}, }, success: { forget: false, changepassword: false, }, login() { window.axios.post('https://missav.com/ko/api/login', { email: this.email, password: this.password, remember: this.remember, }).then(response>
+		 { this.handleUserResponse(response) }).catch(error => { this.handleErrorResponse('login', error) }).then(() => { this.loading.login = false }) this.loading.login = true this.errors.login = {} }, register() { this.requireRecaptcha(recaptchaToken => { window.axios.post('https://missav.com/ko/api/register', { email: this.email, username: this.username, password: this.password, password_confirmation: this.password_confirmation, recaptcha_token: recaptchaToken, }).then(response => { this.handleUserResponse(response) }).catch(error => { this.handleErrorResponse('register', error) }).then(() => { this.loading.register = false }) }) this.loading.register = true this.errors.register = {} }, forget() { this.requireRecaptcha(recaptchaToken => { window.axios.post('https://missav.com/ko/api/forget', { email: this.email, recaptcha_token: recaptchaToken, }).then(response => { this.success.forget = true }).catch(error => { this.handleErrorResponse('forget', error) }).then(() => { this.loading.forget = false }) }) this.loading.forget = true this.errors.forget = {} }, changePassword() { this.requireRecaptcha(recaptchaToken => { window.axios.post('https://missav.com/api/password/update', { old_password: this.old_password, password: this.password, password_confirmation: this.password_confirmation, recaptcha_token: recaptchaToken, }).then(response => { this.success.changePassword = true }).catch(error => { this.handleErrorResponse('changePassword', error) }).then(() => { this.loading.changePassword = false }) }) this.loading.changePassword = true this.errors.changePassword = {} }, handleUserResponse(response) { this.user = response.data.user this.showModal.login = false if (this.loginCallback) { this.loginCallback() } }, }" class="flex items-center justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0">
+		<div @click.prevent="showModal.login=false" class="fixed inset-0 bg-black bg-opacity-75 transition-opacity" aria-hidden="true">
+		</div>
+
+		<div @click.prevent="showModal.login = false" class="fixed inset-0 bg-black bg-opacity-75 transition-opacity" aria-hidden="true"></div>
+
+		<span class="hidden sm:inline-block sm:align-middle sm:h-screen" aria-hidden="true">​</span>
+		<div class="w-screen inline-block align-bottom bg-nord1 rounded-lg p-4 text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-sm sm:w-full sm:p-6">
+			<form x-show="currentPage==='login'" action="/bbs/login_check.php" method="post" class="space-y-4 sm:space-y-6">
+				<div>
+					<h2 class="text-center text-2xl text-nord4">
+					계정에 로그인 </h2>
+					<p class="mt-2 text-center text-sm leading-5 text-nord5 max-w">
+						 또는 <a @click.prevent="currentPage='register'" href="#" class="font-medium text-nord13 hover:text-nord8 focus:outline-none focus:underline">
+						새 계정 등록 </a>
+					</p>
+				</div>
+				<div x-show="Object.keys(errors.login).length" class="rounded-md bg-red-50 p-4 text-sm text-red-700" style="display: none;">
+					<ul role="list" class="list-disc pl-5 space-y-1">
+						<template x-for="error in errors.login">
+						<li x-text="error[0]"></li>
+						</template>
+					</ul>
+				</div>
+				<div class="text-group">
+					<div :class="{ 'bg-red-100': errors.login.email }" class="rounded-b-none">
+						<label :class="{ 'text-red-800': errors.login.email }" for="login_email" class="">이메일</label>
+						<input type="text" id="login_email" name="mb_id" required="">
+					</div>
+					<div :class="{ 'bg-red-100': errors.login.password }" class="rounded-t-none">
+						<label :class="{ 'text-red-800': errors.login.password }" for="login_password" class="">비밀번호</label>
+						<input type="password" id="login_password" name="mb_password" required="">
+					</div>
+				</div>
+				<!--
+				<div class="relative flex items-start justify-between">
+					<div class="text-sm">
+						<a @click.prevent="currentPage='forget'" href="#" class="font-medium text-nord13 hover:text-nord8 focus:outline-none focus:underline">
+						비밀번호 재설정 </a>
+					</div>
+				</div>
+				-->
+				<div class="block w-full rounded-md shadow-sm">
+					<button type="submit" class="button-primary button-block" disable="">
+					<svg x-show="loading.login" class="animate-spin h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="display: none;">
+					<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+					<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+					</svg>
+					로그인 </button>
+				</div>
+			</form>
+			<form x-show="currentPage==='register'" action="/bbs/register_form_update.php" method="post" class="space-y-4 sm:space-y-6" style="display: none;">
+				<input type="hidden" name="w" value="">
+				<input type="hidden" name="url" value="%2Fbbs%2Fregister_form.php">
+				<input type="hidden" name="pim" value="">
+				<input type="hidden" name="agree" value="1">
+				<input type="hidden" name="agree2" value="1">
+				<input type="hidden" name="cert_type" value="">
+				<input type="hidden" name="cert_no" value="">
+				<input type="hidden" name="mb_sex" value="">
+				<input type="hidden" name="mb_name" value="rand_68589085">
+				<input type="hidden" name="mb_email" value="rand_49128497@fakedomain.com">
+
+				<div>
+					<h2 class="text-center text-2xl text-nord4">
+					새 계정 등록 </h2>
+					<p class="mt-2 text-center text-sm leading-5 text-nord5 max-w">
+						 또는 <a @click.prevent="currentPage='login'" href="#" class="font-medium text-nord13 hover:text-nord8 focus:outline-none focus:underline">
+						계정에 로그인 </a>
+					</p>
+				</div>
+				<div x-show="Object.keys(errors.register).length" class="rounded-md bg-red-50 p-4 text-sm text-red-700" style="display: none;">
+					<ul role="list" class="list-disc pl-5 space-y-1">
+						<template x-for="error in errors.register">
+						<li x-text="error[0]"></li>
+						</template>
+					</ul>
+				</div>
+				<div class="text-group">
+					<div :class="{ 'bg-red-100': errors.register.email }" class="rounded-b-none">
+						<label :class="{ 'text-red-800': errors.register.email }" for="register_email" class="">아이디</label>
+						<input type="text" id="register_email" name="mb_id" required="">
+					</div>
+					<div :class="{ 'bg-red-100': errors.register.username }" class="rounded-t-none">
+						<label :class="{ 'text-red-800': errors.register.username }" for="register_username" class="">사용자 이름</label>
+						<input type="text" id="register_username" name="mb_nick" required="">
+					</div>
+				</div>
+				<div class="text-group">
+					<div :class="{ 'bg-red-100': errors.register.password }" class="rounded-b-none">
+						<label :class="{ 'text-red-800': errors.register.password }" for="register_password" class="">비밀번호</label>
+						<input type="password" id="register_password" name="mb_password" required="">
+					</div>
+					<div :class="{ 'bg-red-100': errors.register.password_confirmation }" class="rounded-t-none">
+						<label :class="{ 'text-red-800': errors.register.password_confirmation }" for="register_password_confirmation" class="">비밀번호 확인</label>
+						<input type="password" name="mb_password_re" id="register_password_confirmation" required="">
+					</div>
+				</div>
+				<div class="block w-full rounded-md shadow-sm">
+					<button type="submit" class="button-primary button-block">
+					<svg x-show="loading.register" class="animate-spin h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="display: none;">
+					<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+					<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+					</svg>
+					등록하다 </button>
+				</div>
+			</form>
+			<form x-show="currentPage==='forget'" @submit.prevent="forget" class="space-y-4 sm:space-y-6" style="display: none;">
+				<div>
+					<h2 class="text-center text-2xl text-nord4">
+					비밀번호 분실? </h2>
+					<p class="mt-2 text-center text-sm leading-5 text-nord5 max-w">
+						 또는 <a @click.prevent="currentPage='login'" href="#" class="font-medium text-nord13 hover:text-nord8 focus:outline-none focus:underline">
+						계정에 로그인 </a>
+					</p>
+				</div>
+				<div x-show="Object.keys(errors.forget).length" class="rounded-md bg-red-50 p-4 text-sm text-red-700" style="display: none;">
+					<ul role="list" class="list-disc pl-5 space-y-1">
+						<template x-for="error in errors.forget">
+						<li x-text="error[0]"></li>
+						</template>
+					</ul>
+				</div>
+				<div class="rounded-md bg-emerald-50 p-4" x-show="success.forget" style="display: none;">
+					<div class="flex">
+						<div class="shrink-0">
+							<svg class="h-5 w-5 text-emerald-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+							<path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+							</svg>
+						</div>
+						<div class="ml-3">
+							<p class="text-sm font-medium text-emerald-800">
+								 비밀번호 재설정 링크를 이메일로 전송했습니다!
+							</p>
+						</div>
+					</div>
+				</div>
+				<div x-show="! success.forget" class="text-group" style="display: none;">
+					<div :class="{ 'bg-red-100': errors.forget.email }" class="">
+						<label :class="{ 'text-red-800': errors.forget.email }" for="forget_email" class="">이메일</label>
+						<input x-model="email" :class="{ 'bg-red-100': errors.forget.email }" type="text" id="forget_email" required="" class="">
+					</div>
+				</div>
+				<div x-show="! success.forget" class="block w-full rounded-md shadow-sm" style="display: none;">
+					<button :disabled="loading.forget" type="submit" class="button-primary button-block" disabled="disabled">
+					<svg x-show="loading.forget" class="animate-spin h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="display: none;">
+					<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+					<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+					</svg>
+					암호를 재설정 </button>
+				</div>
+			</form>
+			<form x-show="currentPage==='change_password'" @submit.prevent="changePassword" class="space-y-4 sm:space-y-6" style="display: none;">
+				<div>
+					<h2 class="text-center text-2xl text-nord4">
+					비밀번호 변경 </h2>
+				</div>
+				<div x-show="Object.keys(errors.changePassword).length" class="rounded-md bg-red-50 p-4 text-sm text-red-700" style="display: none;">
+					<ul role="list" class="list-disc pl-5 space-y-1">
+						<template x-for="error in errors.changePassword">
+						<li x-text="error[0]"></li>
+						</template>
+					</ul>
+				</div>
+				<div class="rounded-md bg-emerald-50 p-4" x-show="success.changePassword" style="display: none;">
+					<div class="flex">
+						<div class="shrink-0">
+							<svg class="h-5 w-5 text-emerald-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+							<path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
+							</svg>
+						</div>
+						<div class="ml-3">
+							<p class="text-sm font-medium text-emerald-800">
+								 비밀번호 변경됨
+							</p>
+						</div>
+					</div>
+				</div>
+				<div x-show="! success.changePassword" class="text-group" style="display: none;">
+					<div :class="{ 'bg-red-100': errors.changePassword.old_password }" class="rounded-b-none">
+						<label :class="{ 'text-red-800': errors.changePassword.old_password }" for="change_password_old_password" class="">기존 비밀번호</label>
+						<input x-model="old_password" :class="{ 'bg-red-100': errors.changePassword.old_password }" type="password" id="change_password_old_password" required="" class="">
+					</div>
+					<div :class="{ 'bg-red-100': errors.changePassword.password }" class="rounded-b-none">
+						<label :class="{ 'text-red-800': errors.changePassword.password }" for="change_password_password" class="">새 비밀번호</label>
+						<input x-model="password" :class="{ 'bg-red-100': errors.changePassword.password }" type="password" id="change_password_password" required="" class="">
+					</div>
+					<div :class="{ 'bg-red-100': errors.changePassword.password_confirmation }" class="rounded-t-none">
+						<label :class="{ 'text-red-800': errors.changePassword.password_confirmation }" for="change_password_password_confirmation" class="">비밀번호 확인</label>
+						<input x-model="password_confirmation" :class="{ 'bg-red-100': errors.changePassword.password_confirmation }" type="password" id="change_password_password_confirmation" required="" class="">
+					</div>
+				</div>
+				<div x-show="! success.changePassword" class="block w-full rounded-md shadow-sm" style="display: none;">
+					<button :disabled="loading.changePassword" type="submit" class="button-primary button-block" disabled="disabled">
+					<svg x-show="loading.changePassword" class="animate-spin h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="display: none;">
+					<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+					<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+					</svg>
+					비밀번호 변경 </button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+
+<a href="#" id="back-to-top" title="Back to top"><i class="fa fa-chevron-up"></i></a>
+<script type="text/javascript" src="https://av19.org/assets/jquery.min.js"></script>
+<script type="text/javascript" src="https://av19.org/assets/jquery.touchSwipe.min.js" id="wpst-touchswipe-js" defer=""></script>
+<script type="text/javascript" src="https://av19.org/assets/main.js?ver=2211022" id="wpst-main-js" defer=""></script>
+
+
+<div id="ctc10lrtln"></div>
+</div><script type="text/javascript" src="https://creative.xlviirdr.com/widgets/Spot/lib-auto.js?autoplay=all&amp;userId=f191a5d5c55804a8a0f8da0d0d746f44a1168607e488eb2896c2b11224907f2e&amp;tag=girls/teens&amp;autoclose=0&amp;sourceId=videoslider_av19org" id="SCSpotScript"></script>
+
+
+<script>
+	$(".thumb-block .inner-border img").removeClass("hidden");
+	$("a.archive-entry").removeClass("aclick");
+	$(".new_participant_form").remove();
+
+	$(".thumbnail").hover(function () {
+		$(this).find("video")[0].play();
+	}, function () {
+		var el = $(this).find("video")[0];
+		el.pause();
+		el.currentTime = 0;
+	});
+</script>
+
+
+
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HGZTD1JG27"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HGZTD1JG27');
+</script>
+
+<!-- } 하단 끝 -->
+
+<script>
+$(function() {
+    // 폰트 리사이즈 쿠키있으면 실행
+    font_resize("container", get_cookie("ck_font_resize_rmv_class"), get_cookie("ck_font_resize_add_class"));
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://go.superchatlive.com/abc.gif?userId=f191a5d5c55804a8a0f8da0d0d746f44a1168607e488eb2896c2b11224907f2e&amp;sourceId=videoslider_av19org&amp;modelsLimit=1&amp;stripcashR=0&amp;thumbType=default&amp;thumbFit=cover&amp;quality=original&amp;language=en&amp;modelsInWatchHistoryCount=-1&amp;modelsInFavoritesCount=-1&amp;userType=newuser&amp;modelsCount=1&amp;segment=hls-newAPI&amp;landing=Spot&amp;referrer&amp;i=0&amp;ib=0&amp;filtersMatch=1" style="position: fixed; top: -1px; left: -1px; width: 1px; height: 1px;"></body></html>
