@@ -1,19 +1,31 @@
 version: "3.1"
 
 services:
+    crawler:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        environment:
+            - DISPLAY=:1
+        command: ["./newcrawler"]
+
     db:
         image: postgres:latest
         restart: always
-        env_file:
-            - ./config.yaml
+        environment:
+            POSTGRES_DB: postgres
+            POSTGRES_USER: postgres
+            POSTGRES_PASSWORD: postgres
         volumes:
             - postgres_data:/var/lib/postgresql/data
+        ports:
+            - "5432:5432" # optional: expose port 5432 for external connections
 
     adminer:
         image: adminer:latest
         restart: always
         ports:
-            - 8080:8080
+            - "8080:8080"
 
 volumes:
     postgres_data:

@@ -11,7 +11,7 @@ import (
 
 func main() {
 	// Check if a URL argument was provided
-	if len(os.Args) < 2 {
+	if len(os.Args) != 2 {
 		log.Println("Usage: go run crawler.go <crawler's ID> <url>")
 		return
 	}
