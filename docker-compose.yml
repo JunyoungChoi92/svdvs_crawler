@@ -1,0 +1,19 @@
+version: "3.1"
+
+services:
+    db:
+        image: postgres:latest
+        restart: always
+        env_file:
+            - ./config.yaml
+        volumes:
+            - postgres_data:/var/lib/postgresql/data
+
+    adminer:
+        image: adminer:latest
+        restart: always
+        ports:
+            - 8080:8080
+
+volumes:
+    postgres_data:
