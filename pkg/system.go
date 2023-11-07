@@ -108,12 +108,14 @@ func ScrapWebpage(ctx context.Context, targetUrl string, iframeTimeOut time.Dura
 	}
 
 	// Take a full-page screenshot.
-	base64TypeScreenShot, err := scrap.CaptureScreenshot(ctx, targetUrl)
+	screenshotPath, err := scrap.CaptureScreenshot(ctx, targetUrl)
 	if err != nil {
 		return pageContent, "", err
 	}
 
-	return pageContent, base64TypeScreenShot, nil
+	// Write the base64TypeScreenShot to the file.
+
+	return pageContent, screenshotPath, nil
 }
 
 func SaveCrawledData(database *sqlx.DB, data schema.CrawlerTable) error {

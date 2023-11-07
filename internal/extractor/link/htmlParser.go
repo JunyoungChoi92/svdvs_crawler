@@ -1,7 +1,6 @@
-package parser
+package link
 
 import (
-	"fmt"
 	"html"
 	"log"
 	"net/url"
@@ -79,47 +78,35 @@ func (htmlParser *HtmlParser) ExtractURLsFromContent() *HtmlParser {
 	return htmlParser
 }
 
-func (htmlParser *HtmlParser) ExtractAndCombineURLs(domain string) *HtmlParser {
-	htmlParser.extractAndNormalizeURLs(domain)
+func (htmlParser *HtmlParser) ExtractAndCombineURLs(domain string) (*HtmlParser, error) {
+	err := htmlParser.extractAndNormalizeURLs(domain)
+	if err != nil {
+		return htmlParser, err
+	}
 	links := htmlParser.extractURLsFromContent(htmlParser.UnEscapeHtml())
 
 	htmlParser.SetUrls(CombineSlice(htmlParser.Urls(), links))
 
-	return htmlParser
+	return htmlParser, nil
 }
 
-func (htmlParser *HtmlParser) GetTags(tag string, method string) []string {
-	unEscapeHtml := htmlParser.UnEscapeHtml()
-
-	var tags []string
-	if method == cdn {
-		tagReg := regexp.MustCompile(fmt.Sprintf(`<%s(.*?)>`, tag))
-		tags = tagReg.FindAllString(unEscapeHtml, -1)
-	} else {
-		spaceReg := regexp.MustCompile(`\s`)
-		tagReg := regexp.MustCompile(fmt.Sprintf(`<%s(.*?)>`, tag))
-
-		unEscapeHtml = spaceReg.ReplaceAllString(unEscapeHtml, ``)
-		tags = tagReg.FindAllString(unEscapeHtml, -1)
-	}
-
-	return tags
-}
-
-func (htmlParser *HtmlParser) extractAndNormalizeURLs(domain string) *HtmlParser {
+func (htmlParser *HtmlParser) extractAndNormalizeURLs(domain string) error {
 	regexpPath := regexp.MustCompile(`href="(.*?)"`)
 	regexpAttribute := regexp.MustCompile(`href=|"|\s`)
 	urlList := regexpPath.FindAllString(htmlParser.UnEscapeHtml(), -1)
 
 	for idx, uri := range urlList {
 		uri = regexpAttribute.ReplaceAllString(uri, "")
-		uri = checkFullLink(domain, uri)
+		uri, err := checkFullLink(domain, uri)
+		if err != nil {
+			return err
+		}
 
 		urlList[idx] = uri
 	}
 	htmlParser.SetUrls(urlList)
 
-	return htmlParser
+	return nil
 }
 
 func (htmlParser *HtmlParser) htmlUnescape() {
@@ -153,23 +140,23 @@ func (htmlParser *HtmlParser) htmlEscape() {
 	htmlParser.SetEscapeHtml(escapedHtml)
 }
 
-func checkFullLink(domain string, uri string) string {
+func checkFullLink(domain string, uri string) (string, error) {
 	urlParsed, err := url.Parse(uri)
 	if err != nil {
 		log.Println(err)
-		return ""
+		return "", err
 	}
 	domainParsed, err := url.Parse(domain)
 	if err != nil {
 		log.Println(err)
-		return ""
+		return "", err
 	}
 
 	if len(urlParsed.Host) != 0 {
-		return urlParsed.String()
+		return urlParsed.String(), nil
 	}
 
 	domainParsed.Path = urlParsed.Path
 	domainParsed.RawQuery = urlParsed.RawQuery
-	return domainParsed.String()
+	return domainParsed.String(), nil
 }

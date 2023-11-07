@@ -2,8 +2,9 @@ package scrapper
 
 import (
 	"context"
-	"encoding/base64"
 	"log"
+	"os"
+	"path/filepath"
 	"strings"
 	"sync"
 	"time"
@@ -11,6 +12,7 @@ import (
 	"github.com/chromedp/cdproto/cdp"
 	"github.com/chromedp/cdproto/runtime"
 	"github.com/chromedp/chromedp"
+	"github.com/google/uuid"
 )
 
 type IframeData struct {
@@ -20,17 +22,46 @@ type IframeData struct {
 
 func CaptureScreenshot(ctx context.Context, targetUrl string) (string, error) {
 	var screenshot []byte
+	scrollScript := `window.scrollTo(0, document.body.scrollHeight);`
+
 	err := chromedp.Run(ctx,
 		chromedp.Navigate(targetUrl),
-		chromedp.FullScreenshot(&screenshot, 90))
-
+		chromedp.WaitReady(`body`, chromedp.ByQuery),
+		chromedp.Sleep(2*time.Second),
+		chromedp.Evaluate(scrollScript, nil),
+		chromedp.Sleep(2*time.Second),
+		chromedp.FullScreenshot(&screenshot, 90),
+	)
 	if err != nil {
 		return "", err
 	}
 
-	base64Screenshot := base64.StdEncoding.EncodeToString(screenshot)
+	screenshotDir := "../../screenshots"
 
-	return base64Screenshot, nil
+	if _, err := os.Stat(screenshotDir); os.IsNotExist(err) {
+		err := os.MkdirAll(screenshotDir, os.ModePerm)
+		if err != nil {
+			return "", err
+		}
+	}
+
+	// Create a unique file name for the screenshot.
+	uuid := uuid.New().String()
+	screenshot_path := filepath.Join(screenshotDir, "screenshot-"+uuid+".png")
+
+	file, err := os.Create(screenshot_path)
+	if err != nil {
+		return "", err
+	}
+
+	_, err = file.Write(screenshot)
+	if err != nil {
+		return "", err
+	}
+
+	defer file.Close()
+
+	return screenshot_path, nil
 }
 
 // chromedp.Navigate() automatically waits for the load event to fire, which happens when the whole page has loaded.
@@ -114,9 +145,14 @@ func ScrapHTML(ctx context.Context, targetURL string, iframeTimeOut time.Duratio
 		}()
 	}
 
-	// Replace the iframe with its inner values of <body> in the original HTML.
 	for iframeData := range iframeContentsChan {
-		pageContent = strings.Replace(pageContent, iframeData.OuterHTML, iframeData.Content, 1)
+		index := strings.Index(pageContent, iframeData.OuterHTML)
+		if index != -1 {
+			insertionPoint := index + len(iframeData.OuterHTML)
+			pageContent = pageContent[:insertionPoint] + "\n" + iframeData.Content + pageContent[insertionPoint:]
+		} else {
+			log.Printf("Warning: iframeData.OuterHTML not found in pageContent")
+		}
 	}
 
 	// Count the number of "iframe" in the pageContent.

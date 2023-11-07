@@ -1,7 +1,6 @@
-package parser
+package link
 
 import (
-	"log"
 	"net/url"
 	"regexp"
 )
@@ -51,9 +50,12 @@ func (urlParser *UrlParser) CheckDuplicate() *UrlParser {
 	return urlParser
 }
 
-func (urlParser *UrlParser) SeparateUrls(domain string) {
+func (urlParser *UrlParser) SeparateUrls(domain string) error {
 	var links, domains []string
-	domainParsed, _ := url.Parse(domain)
+	domainParsed, err := url.Parse(domain)
+	if err != nil {
+		return err
+	}
 	wwwReg := regexp.MustCompile(`www.`)
 	etcReg := regexp.MustCompile(`.json|.css|.js|favicon.ico|.png|.jepg|.webp|login|singin|singup|DMCA|privacy|policy|notice|register|password`)
 	domainHost := wwwReg.ReplaceAllString(domainParsed.Host, ``)
@@ -77,6 +79,8 @@ func (urlParser *UrlParser) SeparateUrls(domain string) {
 
 	urlParser.SetLinks(links)
 	urlParser.SetDomains(domains)
+
+	return nil
 }
 
 func (urlParser *UrlParser) Formatting(format, parentUrl string) *UrlParser {
@@ -96,7 +100,6 @@ func (urlParser *UrlParser) Formatting(format, parentUrl string) *UrlParser {
 		}
 	}
 
-	log.Println("formatLinks", formatLinks)
 	urlParser.formatLinks = formatLinks
 	return urlParser
 }

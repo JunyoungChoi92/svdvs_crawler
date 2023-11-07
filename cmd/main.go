@@ -11,7 +11,7 @@ import (
 
 func main() {
 	// Check if a URL argument was provided
-	if len(os.Args) != 2 {
+	if len(os.Args) != 3 {
 		log.Println("Usage: go run crawler.go <crawler's ID> <url>")
 		return
 	}
@@ -31,7 +31,7 @@ func main() {
 
 	err := database.Connect(configPath)
 	if err != nil {
-		panic(err)
+		log.Fatal(err)
 	}
 
 	defer database.Disconnect()
@@ -39,7 +39,7 @@ func main() {
 	// Initialize the chromedp's BrowserContext
 	ctx, cancel, err := pkg.InitializeBrowserContext()
 	if err != nil {
-		panic(err)
+		log.Fatal(err)
 	}
 	defer cancel()
 
@@ -51,30 +51,24 @@ func main() {
 	crawler.BrowserContext = tctx
 
 	crawler.AddCommand(
-		&pkg.CheckUrlConnectivityCommand{})
-	crawler.AddCommand(
+		&pkg.CheckUrlConnectivityCommand{
+			TargetURL: crawler.TargetURL,
+		},
 		&pkg.GetRedirectedUrlCommand{
 			TimeOut: 15 * time.Second,
-		})
-	crawler.AddCommand(
+		},
 		&pkg.CheckURLValidationCommand{
 			Indicators: indicators,
-		})
-	crawler.AddCommand(
+		},
 		&pkg.ScrapWebpageCommand{
 			IsBlockedByCaptcha: false,
 			IframeTimeOut:      15 * time.Second,
-		})
-	// plz add a new command for sublink & video link extraction from HTML content
-
-	// update crawler: html, screenshot, video links, sublinks in the database. crawler's id is the key.
-
-	// insert extracted video download links into a new row in the video downloader table
-
-	// Run the commands
+		},
+		&pkg.ExtractSubLinkCommand{},
+		&pkg.ExtractVideoSourceCommand{},
+	)
 
 	if err := crawler.Run(); err != nil {
-		log.Panic(err)
+		log.Fatal(err)
 	}
-
 }

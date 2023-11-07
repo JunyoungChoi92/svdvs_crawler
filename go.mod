@@ -3,6 +3,7 @@ module github.com/dev-zipida-com/spo-vdvs-crawler
 go 1.21
 
 require (
+	github.com/DATA-DOG/go-sqlmock v1.5.0 // indirect
 	github.com/PuerkitoBio/goquery v1.8.1 // indirect
 	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/chromedp/cdproto v0.0.0-20231025043423-5615e204d422 // indirect

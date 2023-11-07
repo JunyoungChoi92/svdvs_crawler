@@ -29,32 +29,25 @@ func TestExtractSubLinks(t *testing.T) {
 
 		extractedURLs, err := ExtractSubLinks(string(htmlData), "https://av19.org/korea", "https://av19.org")
 		if err != nil {
-			t.Error("ExtractSubLinks Error: ", err)
+			t.Error("ExtractSubLink Error: ", err)
 		}
+
 		assert.Equal(t, urls, extractedURLs, "extractURLs is not equal 'urls'")
 	})
 
 	t.Run("test link find", func(t *testing.T) {
 
-		urls := []string{
-			"https://av19.org/korea", "https://av19.org/koreayadong", "https://av19.org/korea/12407", "https://av19.org/korea/12406", "https://av19.org/korea/12405",
-			"https://av19.org/korea/12404", "https://av19.org/korea/12403", "https://av19.org/korea/12402", "https://av19.org/korea/12401", "https://av19.org/korea/12400",
-			"https://av19.org/korea/12399", "https://av19.org/korea/12398", "https://av19.org/korea/12397", "https://av19.org/korea/12396", "https://av19.org/korea/12395",
-			"https://av19.org/korea/12394", "https://av19.org/korea/12393", "https://av19.org/korea/12392", "https://av19.org/korea/12391", "https://av19.org/korea/12390",
-			"https://av19.org/korea/12389", "https://av19.org/korea/12388", "https://av19.org/korea/12387", "https://av19.org/korea/12386", "https://av19.org/korea/12385",
-			"https://av19.org/korea/12321", "https://av19.org/korea?page=2", "https://av19.org/korea?page=3", "https://av19.org/korea?page=4", "https://av19.org/korea?page=5",
-			"https://av19.org/korea?page=6", "https://av19.org/korea?page=7", "https://av19.org/korea?page=8", "https://av19.org/korea?page=9", "https://av19.org/korea?page=10",
-			"https://av19.org/korea?page=11", "https://av19.org/korea?page=473",
-		}
-		htmlData, err := os.ReadFile(`./data/av19korea.txt`)
+		var urls []string
+		htmlData, err := os.ReadFile(`./data/kr13.txt`)
 		if err != nil {
 			t.Error("os.ReadFile error: ", err)
 		}
 
-		extractedURLs, err := ExtractSubLinks(string(htmlData), "https://av19.org/korea", "https://av19.org")
+		extractedURLs, err := ExtractSubLinks(string(htmlData), "https://kr21.mysstv.com/Video-List-1/", "https://kr21.mysstv.com/")
 		if err != nil {
-			t.Error("ExtractSubLinks Error: ", err)
+			t.Error("ExtractSubLink Error: ", err)
 		}
+
 		assert.Equal(t, urls, extractedURLs, "extractURLs is not equal 'urls'")
 	})
 }
@@ -76,7 +69,7 @@ func TestExtractVideoSource(t *testing.T) {
 			t.Error(err)
 		}
 
-		assert.Equal(t, referer, *extractedVideoSource.VideoDownloadHeader, "Header should be 'https://david.cdnbuzz.buzz/' ")
+		assert.Equal(t, referer, *extractedVideoSource.VideoDownloadHeader, "Header should be 'https://david.cdnbuzz.buzz/'")
 		assert.Equal(t, videosource, *extractedVideoSource.VideoDownloadSource, "VideoSource is not equal")
 	})
 
