@@ -1,23 +1,17 @@
-version: "3.1"
+version: "2.4"
 
 services:
     crawler:
         build:
             context: .
             dockerfile: Dockerfile
-        deploy:
-            resources:
-        limits:
-            cpus: "1"
-            memory: 2048M
-        reservations:
-            cpus: "1"
-            memory: 2048M
         environment:
             - DISPLAY=:1
         ports:
             - "6080:6080"
         command: ["./newcrawler"]
+        mem_limit: 2048m
+        cpus: "1.0"
         networks:
             - crawler-network
 
