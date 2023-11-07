@@ -10,7 +10,7 @@ services:
         ports:
           - "5900:5900"
         command: ["./newcrawler"]
-        mem_limit: 2048m
+        mem_limit: 4096m
         cpus: 1.0
         networks:
             - crawler-network
