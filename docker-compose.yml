@@ -5,6 +5,14 @@ services:
         build:
             context: .
             dockerfile: Dockerfile
+        deploy:
+            resources:
+        limits:
+            cpus: "1"
+            memory: 2048M
+        reservations:
+            cpus: "1"
+            memory: 2048M
         environment:
             - DISPLAY=:1
         ports:
