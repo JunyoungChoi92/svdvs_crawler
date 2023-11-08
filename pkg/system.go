@@ -12,10 +12,8 @@ import (
 	"github.com/chromedp/cdproto/network"
 	"github.com/chromedp/chromedp"
 	"github.com/dev-zipida-com/spo-vdvs-crawler/internal/db"
-	"github.com/dev-zipida-com/spo-vdvs-crawler/internal/db/schema"
 	scrap "github.com/dev-zipida-com/spo-vdvs-crawler/internal/scrapper"
 	validate "github.com/dev-zipida-com/spo-vdvs-crawler/internal/validator"
-	"github.com/jmoiron/sqlx"
 )
 
 func NewDatabase() *db.Database {
@@ -116,17 +114,4 @@ func ScrapWebpage(ctx context.Context, targetUrl string, iframeTimeOut time.Dura
 	// Write the base64TypeScreenShot to the file.
 
 	return pageContent, screenshotPath, nil
-}
-
-func SaveCrawledData(database *sqlx.DB, data schema.CrawlerTable) error {
-
-	return nil
-}
-
-func SaveDownloadedVideos() {
-	// Store the downloaded videos on the PostgreSQL server.
-}
-
-func SaveExtractedInternalLinksIntoCrawlerTable() {
-
 }
